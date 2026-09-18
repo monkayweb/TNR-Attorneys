@@ -21,7 +21,7 @@ function App(){
   window.scrollTo(0,0);
   document.getElementById('main')?.focus({preventScroll:true});
  },[pathname,title,original]);
- return <><a className="skip-link" href="#main">Skip to Content</a><LawHeader/><main id="main" tabIndex="-1">{home?<LawHome/>:original?<OriginalPage page={original}/>:<section className="lf-shell tnr-page-section"><h1>Page Not Found.</h1><Link className="lf-button" to="/">Back to Home</Link></section>}</main><LawFooter/><a className="tnr-whatsapp-button" href="https://wa.me/27729828445" target="_blank" rel="noopener noreferrer" aria-label="Chat with TNR Attorneys on WhatsApp (opens in a new tab)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20.5 11.7a8.5 8.5 0 0 1-12.6 7.5L3 20.5l1.3-4.8A8.5 8.5 0 1 1 20.5 11.7Z"/><path d="m8 7.5 1.5 2-1 1.2c.8 1.7 2.1 3 3.8 3.8l1.2-1 2 1.5c-.3 1.5-1.3 2-2.5 1.6-3.6-1.2-6.5-4.1-7.1-7.1-.2-1 .6-1.8 2.1-2Z"/></svg></a></>;
+ return <><a className="skip-link" href="#main">Skip to Content</a><LawHeader/><main id="main" tabIndex="-1">{home?<LawHome/>:original?<OriginalPage page={original}/>:<section className="lf-shell tnr-page-section"><h1>Page Not Found.</h1><Link className="lf-button" to="/">Back to Home</Link></section>}</main><LawFooter/><a className="tnr-whatsapp-button" href="https://wa.me/27729828445" target="_blank" rel="noopener noreferrer" aria-label="Chat with TNR Attorneys on WhatsApp (opens in a new tab)"><img src="/assets/whatsapp.svg" width="30" height="30" alt="" aria-hidden="true"/></a></>;
 }
 function ScrollMotion(){
  const {pathname}=useLocation();
