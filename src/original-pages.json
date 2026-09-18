@@ -1,0 +1,3584 @@
+[
+  {
+    "path": "/contact/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/contact/",
+    "title": "Contact Us – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Contact Us"
+      },
+      {
+        "type": "heading",
+        "text": "Phone"
+      },
+      {
+        "type": "paragraph",
+        "text": "(012) 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Email"
+      },
+      {
+        "type": "paragraph",
+        "text": "info@tnrattorneys.co.za"
+      },
+      {
+        "type": "heading",
+        "text": "Pretoria"
+      },
+      {
+        "type": "paragraph",
+        "text": "225 LANGE STREET Nieuw Muckleneuk Pretoria"
+      },
+      {
+        "type": "heading",
+        "text": "Nelspruit"
+      },
+      {
+        "type": "paragraph",
+        "text": "D797 TONGA MAIN ROAD Opposite Tonga Mall Nkomazi, Mpumalanga"
+      },
+      {
+        "type": "heading",
+        "text": "Sasolburg"
+      },
+      {
+        "type": "paragraph",
+        "text": "18 FICHARD STREET Sasolburg, 1947"
+      },
+      {
+        "type": "heading",
+        "text": "Leave us your info"
+      }
+    ],
+    "links": [
+      {
+        "text": "Facebook",
+        "href": "https://www.facebook.com/profile.php?id=61557651483847"
+      },
+      {
+        "text": "Linkedin",
+        "href": "https://www.linkedin.com/company/tnr-attorneys-inc/"
+      }
+    ]
+  },
+  {
+    "path": "/casestudies/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/casestudies/",
+    "title": "CASE STUDIES",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/a50fcccd2031.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/TNR-Attorneys-CASE-STUDIES4-700x600.png"
+      },
+      {
+        "type": "heading",
+        "text": "COMMERCIAL LAW: PROTECTING COMMUNITY INTERESTS IN A LANDMARK LAND DEAL"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/d522ad1ecb32.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/TNR-Attorneys-CASE-STUDIES1-700x600.png"
+      },
+      {
+        "type": "heading",
+        "text": "WILLS AND ESTATES: ENSURING JUSTICE AFTER A TRAGIC LOSS"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/2b2e7d884b0a.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/TNR-Attorneys-CASE-STUDIES2-700x600.png"
+      },
+      {
+        "type": "heading",
+        "text": "MEDICAL NEGLIGENCE: RESTORING DIGNITY AFTER A BOTCHED PROCEDURE"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/860026e085e2.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/TNR-Attorneys-CASE-STUDIES3-700x600.png"
+      },
+      {
+        "type": "heading",
+        "text": "WORKMEN’S COMPENSATION: JUSTICE AFTER TWO DECADES"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/2cd1b5322481.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/TNR-Attorneys-CASE-STUDIES_-700x600.png"
+      },
+      {
+        "type": "heading",
+        "text": "LABOUR LAW: RESTORING JUSTICE IN AN UNFAIR DISMISSAL CASE"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/677f2832c81a.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/TNR-Attorneys-CASE-STUDIES6-700x600.png"
+      },
+      {
+        "type": "heading",
+        "text": "RAF CLAIM: FROM HOPELESSNESS TO JUSTICE RESTORED"
+      }
+    ],
+    "links": [
+      {
+        "text": "COMMERCIAL LAW: PROTECTING COMMUNITY INTERESTS IN A LANDMARK LAND DEAL",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy6/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy6/"
+      },
+      {
+        "text": "WILLS AND ESTATES: ENSURING JUSTICE AFTER A TRAGIC LOSS",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy5/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy5/"
+      },
+      {
+        "text": "MEDICAL NEGLIGENCE: RESTORING DIGNITY AFTER A BOTCHED PROCEDURE",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy4/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy4/"
+      },
+      {
+        "text": "WORKMEN’S COMPENSATION: JUSTICE AFTER TWO DECADES",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy3/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy3/"
+      },
+      {
+        "text": "LABOUR LAW: RESTORING JUSTICE IN AN UNFAIR DISMISSAL CASE",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy2/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/portfolio/casestudy2/"
+      },
+      {
+        "text": "RAF CLAIM: FROM HOPELESSNESS TO JUSTICE RESTORED",
+        "href": "https://www.tnrattorneys.co.za/portfolio/case-study-1/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/portfolio/case-study-1/"
+      }
+    ]
+  },
+  {
+    "path": "/about-us/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/about-us/",
+    "title": "ABOUT US",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Trusted Legal Partners for Individuals, Families, and Businesses"
+      },
+      {
+        "type": "paragraph",
+        "text": "At TNR Attorneys, we don’t just represent. We fight, advise, protect, and empower. Whether you have suffered a life-changing injury, faced an unlawful arrest, or need strategic legal support for your business, we are here to help you move forward with clarity and confidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "We are based in South Africa and proudly serve clients across the country. Our clients range from individuals needing justice to companies seeking reliable legal partners."
+      },
+      {
+        "type": "paragraph",
+        "text": "“At TNR Attorneys, we measure success by the real impact we make in our clients’ lives.”— Toohey Rambau, Founding Partner"
+      },
+      {
+        "type": "heading",
+        "text": "We believe in:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Access to justice for every client, regardless of status or background"
+      },
+      {
+        "type": "paragraph",
+        "text": "Precision and preparation in every case we take on"
+      },
+      {
+        "type": "paragraph",
+        "text": "Clear communication, with no jargon and no confusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "TNR Attorneys’ dedication to delivering favorable outcomes goes hand in hand with their commitment to upholding the dignity of each client they serve. This dual focus sets them apart as a reliable and compassionate legal team."
+      },
+      {
+        "type": "paragraph",
+        "text": "TNR Attorneys also stand out for their transparent fee structure, providing clients with clear and detailed information about the costs involved in their legal representation."
+      },
+      {
+        "type": "paragraph",
+        "text": "TNR Attorneys are renowned for their exceptional customer service, characterised by prompt responsiveness, clear communication, and a personalised approach to each client’s needs."
+      },
+      {
+        "type": "heading",
+        "text": "Frequently Asked Questions"
+      },
+      {
+        "type": "heading",
+        "text": "Road Accident Fund (RAF) Claims"
+      },
+      {
+        "type": "paragraph",
+        "text": "How long does an RAF claim take to settle? The timeline depends on the complexity of your injuries and the availability of medical reports. Some claims are finalised in two to three years, while others can take longer if they go to trial. At TNR, we focus on moving matters forward quickly and avoiding unnecessary delays."
+      },
+      {
+        "type": "paragraph",
+        "text": "What compensation can I receive from the RAF? Compensation may cover medical expenses, loss of income, long-term care needs, and general damages for pain and suffering. Each case is different, and we tailor the claim to your unique circumstances."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do I have to pay legal fees upfront? No. In qualifying RAF cases, TNR Attorneys works on a “No Win, No Fee” basis. This means you only pay if we successfully secure compensation for you."
+      },
+      {
+        "type": "heading",
+        "text": "Medical Negligence"
+      },
+      {
+        "type": "paragraph",
+        "text": "What counts as medical negligence? Medical negligence occurs when a healthcare professional fails to act with the reasonable standard of care, causing injury, harm, or complications that could have been avoided. Examples include misdiagnosis, surgical errors, or birth-related injuries."
+      },
+      {
+        "type": "paragraph",
+        "text": "How do you prove medical negligence? We work with independent medical experts who review your records, treatment, and outcomes. Their opinions help establish whether the care you received fell below acceptable standards."
+      },
+      {
+        "type": "paragraph",
+        "text": "Is it possible to sue a public hospital or clinic? Yes. Both public and private healthcare providers can be held accountable if negligence caused harm. Our role is to ensure that your rights are protected, no matter the institution."
+      },
+      {
+        "type": "heading",
+        "text": "Unlawful Arrest & Civil Rights"
+      },
+      {
+        "type": "paragraph",
+        "text": "What is an unlawful arrest? An arrest is unlawful if it is carried out without proper legal grounds or without following due process. This often includes situations where police act outside their authority or misuse their powers."
+      },
+      {
+        "type": "paragraph",
+        "text": "What can I claim for if I was unlawfully arrested? You may claim compensation for loss of income, emotional trauma, reputational harm, and violation of your constitutional rights."
+      },
+      {
+        "type": "paragraph",
+        "text": "How long do I have to file a claim? Civil claims against the state are subject to strict timeframes. It is important to seek legal advice as soon as possible so that deadlines are not missed."
+      },
+      {
+        "type": "heading",
+        "text": "Commercial Disputes & Business Law"
+      },
+      {
+        "type": "paragraph",
+        "text": "What is the benefit of having a lawyer review contracts? A lawyer ensures that your contracts protect your interests, reduce risks, and close loopholes that could lead to disputes later. Prevention is often far less costly than litigation."
+      },
+      {
+        "type": "paragraph",
+        "text": "How are shareholder disputes resolved? Shareholder disputes can be resolved through negotiation, mediation, or litigation. At TNR, we aim for solutions that protect both business stability and shareholder value."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do you work with SMEs as well as large companies? Yes. We represent both small and medium enterprises and larger corporate clients. Each receives the same strategic, results-driven service."
+      },
+      {
+        "type": "heading",
+        "text": "Labour & Administrative Law"
+      },
+      {
+        "type": "paragraph",
+        "text": "What is an unfair dismissal? An unfair dismissal occurs when an employee is terminated without fair reason or without following proper procedures, such as a disciplinary process."
+      },
+      {
+        "type": "paragraph",
+        "text": "Can employers also use your services? Yes. We guide employers on compliance with labour law, help draft contracts, and represent them in disciplinary hearings, CCMA proceedings, and bargaining council matters."
+      },
+      {
+        "type": "paragraph",
+        "text": "What is administrative law, and how does it affect me? Administrative law governs decisions made by public bodies, such as municipalities or government departments. If a decision unfairly affects you or your business, we can challenge it and ensure accountability."
+      },
+      {
+        "type": "heading",
+        "text": "Still have questions?"
+      },
+      {
+        "type": "paragraph",
+        "text": "We are here to help. If you don’t see your question answered here, speak to one of our attorneys today."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Book a Consultation",
+          "Start a WhatsApp Chat"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now: 012 546 6948"
+      }
+    ],
+    "links": [
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/meettheteam/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/meettheteam/",
+    "title": "MEET THE TEAM",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Get to know our team"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/022bd08d7b42.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Toohey-Rambau.png"
+      },
+      {
+        "type": "heading",
+        "text": "Toohey Rambau"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/ba8652ca321e.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Promise-Mgabi.png"
+      },
+      {
+        "type": "heading",
+        "text": "Promise Mgabi"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/960879b12745.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Michael-Malebati.png"
+      },
+      {
+        "type": "heading",
+        "text": "Michael Malebati"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/bb149deab43e.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Ndamulelo-Moshapo.png"
+      },
+      {
+        "type": "heading",
+        "text": "Ndamulelo Moshapo"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/289ee336bebb.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Apfeswaho-Gideon-Vele.png"
+      },
+      {
+        "type": "heading",
+        "text": "Apfeswaho Gideon Vele"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/6262e77261b6.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Vuyisa-Ntloko.png"
+      },
+      {
+        "type": "heading",
+        "text": "Vuyisa Ntloko"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/b65c4f01f8c3.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/Leroy-Malahlela.png"
+      },
+      {
+        "type": "heading",
+        "text": "Leroy Malahlela"
+      }
+    ],
+    "links": [
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Promise Mgabi",
+        "href": "https://www.tnrattorneys.co.za/attorneys/promise-mgabi/"
+      },
+      {
+        "text": "Michael Malebati",
+        "href": "https://www.tnrattorneys.co.za/attorneys/michael-malebati/"
+      },
+      {
+        "text": "Ndamulelo Moshapo",
+        "href": "https://www.tnrattorneys.co.za/attorneys/ndamulelo-moshapo/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      },
+      {
+        "text": "Leroy Malahlela",
+        "href": "https://www.tnrattorneys.co.za/attorneys/leroy-malahlela/"
+      }
+    ]
+  },
+  {
+    "path": "/ourclients/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/ourclients/",
+    "title": "Our Clients – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "OUR CLIENTS"
+      },
+      {
+        "type": "heading",
+        "text": "We serve the best service"
+      },
+      {
+        "type": "paragraph",
+        "text": "At TNR Attorneys, we are committed to building trusted, long-lasting relationships with our clients. We work closely with individuals, businesses and organisations to understand their unique legal needs and provide professional, practical and tailored legal solutions. Our clients are at the heart of everything we do, and we take pride in delivering service grounded in integrity, excellence and trust."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/our-areas-of-expertise/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/our-areas-of-expertise/",
+    "title": "OUR AREAS OF EXPERTISE",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "INDIVIDUAL"
+      },
+      {
+        "type": "heading",
+        "text": "Road Accident Fund (RAF) Claims"
+      },
+      {
+        "type": "heading",
+        "text": "Medical Negligence"
+      },
+      {
+        "type": "heading",
+        "text": "Wills and Estates"
+      },
+      {
+        "type": "heading",
+        "text": "Unlawful Arrest & Civil Rights"
+      },
+      {
+        "type": "heading",
+        "text": "BUSINESSES"
+      },
+      {
+        "type": "heading",
+        "text": "Commercial Law"
+      },
+      {
+        "type": "heading",
+        "text": "Commercial Disputes"
+      },
+      {
+        "type": "heading",
+        "text": "Contract Drafting & Legal Review"
+      },
+      {
+        "type": "heading",
+        "text": "Both Individuals & Businesses"
+      },
+      {
+        "type": "heading",
+        "text": "Labour & Administrative Law"
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an Attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/road-accident-fund/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/medical-negligence/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/wills-and-estates/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/unlawful-arrest-and-civil-rights/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/commercial-law/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/commercial-disputes/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/contract-drafting-and-legal-review/"
+      },
+      {
+        "text": "Learn More",
+        "href": "https://www.tnrattorneys.co.za/labour-and-administrative-law/"
+      },
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/commercial-disputes/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/commercial-disputes/",
+    "title": "Commercial Disputes",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Commercial Disputes"
+      },
+      {
+        "type": "paragraph",
+        "text": "Disagreements are a normal part of doing business, but when they escalate, they can affect partnerships, productivity, and your company’s reputation. At TNR Attorneys, we help businesses and organisations resolve commercial disputes efficiently and professionally. Our goal is always to protect your interests, preserve valuable relationships where possible, and achieve practical outcomes that allow you to move forward."
+      },
+      {
+        "type": "heading",
+        "text": "We represent clients in a wide range of disputes, including:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Shareholder and partnership conflicts",
+          "Breach of contract and supplier disputes",
+          "Lease and property disagreements",
+          "Regulatory and compliance-related disputes",
+          "High-value litigation between commercial entities"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "We understand that every dispute carries both financial and reputational risks. Our approach combines a deep understanding of business realities with strong legal strategy, ensuring that your case is handled with the care and urgency it deserves."
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Case Review: We examine the facts, contracts, and business relationships to identify the most effective way forward.",
+          "Negotiation: We prioritise early resolution through clear communication and settlement discussions.",
+          "Litigation: When negotiation fails, we act decisively in court to protect your business interests.",
+          "Prevention: We provide practical advice to reduce future disputes and strengthen your commercial foundation."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Real Results: We represented a Community Property Association in a landmark commercial dispute involving a 100-year land lease. The agreement, which favoured investors over community members, was declared invalid through our intervention. The renegotiated terms secured fair rentals, BEE participation, and socio-economic benefits that continue to serve the community. We successfully resolved a shareholder dispute within months, allowing the company to maintain stability and avoid long-term disruption."
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Commercial Disputes?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Proven record of success in complex and high-value matters",
+          "Skilled negotiators who balance business practicality with strong advocacy",
+          "Transparent communication and strategic guidance at every stage",
+          "Trusted by community entities, SMEs, and corporate clients alike"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: If your business is facing a dispute, early legal intervention can prevent losses and protect your reputation. Speak to our commercial litigation team today for clear, actionable advice."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All The Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/contract-drafting-legal-review/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/contract-drafting-legal-review/",
+    "title": "Contract Drafting & Legal Review",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Contract Drafting & Legal Review"
+      },
+      {
+        "type": "heading",
+        "text": "Resolving business conflicts with strategy and precision"
+      },
+      {
+        "type": "paragraph",
+        "text": "Disputes are part of doing business, but when they escalate, they can threaten relationships, reputations, and long-term stability. At TNR Attorneys, we help businesses and organisations resolve disputes quickly and effectively, ensuring that your focus remains on growth rather than conflict."
+      },
+      {
+        "type": "paragraph",
+        "text": "We represent clients in matters involving:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Shareholder and partnership disputes",
+          "Contract breaches and supplier conflicts",
+          "Lease and property-related disputes",
+          "Regulatory or compliance-related disputes",
+          "High-stakes litigation for commercial entities"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Case Review: We analyse your agreements, rights, and obligations.",
+          "Strategic Advice: We provide practical options, from negotiation to litigation.",
+          "Resolution Path: We pursue settlement where possible and litigation where necessary.",
+          "Ongoing Support: We continue to advise on compliance and contract structure to prevent future disputes."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Real Results:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "We successfully overturned a 100-year land lease that heavily favoured investors over community members. The renegotiated terms secured fair rental, BEE participation, and socio-economic benefits for the community."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Commercial Disputes?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Proven success in high-value and complex matters",
+          "Balanced approach that prioritises both speed and fairness",
+          "Deep understanding of corporate governance, compliance, and risk management",
+          "A trusted partner for businesses that want legal certainty and peace of mind"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: If your business is facing a conflict, act early. Strategic legal guidance can prevent losses and protect long-term value."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for someone to help?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : (1)2345-2345-54"
+      },
+      {
+        "type": "heading",
+        "text": "Partners at Attorna"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Leroy MalahlelaMessenger",
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney",
+          "Promise MgabiLegal Consultant",
+          "Michael MalebatiSenior Legal Secretary"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All People",
+        "href": "/attorna/about-team-2/"
+      },
+      {
+        "text": "Leroy Malahlela",
+        "href": "https://www.tnrattorneys.co.za/attorneys/leroy-malahlela/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      },
+      {
+        "text": "Promise Mgabi",
+        "href": "https://www.tnrattorneys.co.za/attorneys/promise-mgabi/"
+      },
+      {
+        "text": "Michael Malebati",
+        "href": "https://www.tnrattorneys.co.za/attorneys/michael-malebati/"
+      }
+    ]
+  },
+  {
+    "path": "/unlawful-arrest-and-civil-rights/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/unlawful-arrest-and-civil-rights/",
+    "title": "Unlawful Arrest and Civil Rights",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Unlawful Arrest and Civil Rights"
+      },
+      {
+        "type": "heading",
+        "text": "Protecting your freedom, dignity, and constitutional rights"
+      },
+      {
+        "type": "paragraph",
+        "text": "No one deserves to have their rights violated. Yet, unlawful arrests, police misconduct, and abuse of authority happen more often than many realise. At TNR Attorneys, we stand with individuals who have been wrongfully treated by those in positions of power. Our mission is to hold authorities accountable and to restore your dignity, reputation, and peace of mind."
+      },
+      {
+        "type": "paragraph",
+        "text": "An unlawful arrest can have lasting effects which causes financial strain, emotional trauma, and reputational harm. Our team understands the weight of such experiences and works tirelessly to ensure justice is served for those who have been wronged."
+      },
+      {
+        "type": "paragraph",
+        "text": "We assist clients with:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Unlawful or wrongful arrests and detentions",
+          "Police brutality and excessive use of force",
+          "Malicious prosecution and abuse of process",
+          "Breaches of constitutional or human rights",
+          "Claims against state or municipal authorities"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Case Assessment: We review the circumstances of your arrest or rights violation in detail to determine the best course of action.",
+          "Evidence Gathering: We obtain police records, witness statements, and expert opinions to support your case.",
+          "Legal Action: We file and pursue claims against the responsible authorities through negotiation or litigation.",
+          "Resolution: We secure compensation for damages and ensure that justice is achieved fairly and transparently."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "What Compensation Can Cover:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Financial losses due to detention or prosecution",
+          "Emotional and psychological trauma",
+          "Reputational damage and social stigma",
+          "Future loss of income or professional opportunities"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Real Results: We have successfully secured compensation for clients unlawfully detained and mistreated by authorities, helping them regain both financial stability and personal dignity."
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Civil Rights Matters?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Proven success in complex constitutional and civil rights cases",
+          "Skilled in navigating claims against public bodies and law enforcement",
+          "Balanced, respectful advocacy that earns results and recognition",
+          "A commitment to protecting dignity, fairness, and accountability"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: If you or someone you know has been unlawfully arrested or suffered a violation of rights, you do not have to face it alone. Let us help you pursue justice with strength, sensitivity, and integrity."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/medical-negligence/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/medical-negligence/",
+    "title": "Medical Negligence",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Medical Negligence"
+      },
+      {
+        "type": "heading",
+        "text": "Holding healthcare providers accountable, protecting your rights"
+      },
+      {
+        "type": "paragraph",
+        "text": "When we seek medical care, we place our trust in professionals to act with skill and care. But sometimes mistakes happen that should never have happened. Medical negligence can leave patients or their families facing permanent injuries, long-term treatment, or the loss of dignity and quality of life."
+      },
+      {
+        "type": "paragraph",
+        "text": "At TNR Attorneys, we help victims of medical negligence pursue claims to ensure accountability and fair compensation."
+      },
+      {
+        "type": "paragraph",
+        "text": "We represent clients in cases involving:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Surgical errors and failed procedures",
+          "Birth injuries and maternal complications",
+          "Misdiagnosis or delayed diagnosis",
+          "Incorrect treatment or medication errors",
+          "Negligence in public hospitals or clinics"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "What Compensation Can Cover:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Medical expenses (past and future)",
+          "Loss of income or earning potential",
+          "Pain, suffering, and loss of enjoyment of life",
+          "Long-term care and rehabilitation needs"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Case Evaluation: We review your medical records, treatment history, and outcomes.",
+          "Expert Opinions: We work with medical professionals to assess whether negligence occurred.",
+          "Claim Preparation: We gather evidence and build a strong case on your behalf.",
+          "Resolution: We negotiate settlements or litigate where necessary to achieve fair outcomes."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Real Results:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "We represented a young man whose life was devastated by a botched government circumcision procedure. Through mediation, we secured compensation for his pain and suffering, future medical treatment, and loss of earnings. His right to dignity was restored, and he regained hope for the future."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Medical Negligence Cases?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Experienced in handling sensitive and complex medical claims",
+          "Access to trusted medical experts and specialist counsel",
+          "Proven record of restoring dignity and securing fair compensation",
+          "Compassionate, client-first support throughout the legal process"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: If you believe you or a loved one has suffered due to medical negligence, do not stay silent. We are here to listen, advise, and act."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/road-accident-fund/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/road-accident-fund/",
+    "title": "Road Accident Fund (RAF) Claims",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Road Accident Fund (RAF) Claims"
+      },
+      {
+        "type": "heading",
+        "text": "Turning setbacks into life-changing outcomes"
+      },
+      {
+        "type": "paragraph",
+        "text": "A serious motor accident can change everything in a moment. Medical bills pile up, income is lost, and families are left facing uncertainty about the future. At TNR Attorneys, we help accident victims and their families claim what they are lawfully entitled to from the Road Accident Fund (RAF)."
+      },
+      {
+        "type": "heading",
+        "text": "Our role is to ensure that you receive fair compensation for:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Medical expenses (past and future)",
+          "Loss of income or earning capacity",
+          "Long-term care and rehabilitation",
+          "General damages for pain, suffering, and loss of quality of life"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "We understand that many RAF matters are delayed or poorly handled by other firms. That is why clients turn to TNR Attorneys. We step in, review your case in detail, and apply the expertise needed to move claims forward and achieve results."
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Case Review: We assess your accident, injuries, and potential claim.",
+          "Claim Preparation: We gather evidence, medical reports, and expert opinions.",
+          "RAF Submission: We file and pursue your claim, keeping you informed at every stage.",
+          "Resolution: We negotiate or litigate to secure the maximum possible compensation."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Real Results:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "We finalised a claim for a teacher injured in 2007 that had been unresolved for more than a decade. Within two years of TNR taking over, she received a multi-million rand settlement and regained her dignity and security.",
+          "We have secured long-term financial stability for clients left unable to work due to serious injuries, ensuring their families are protected."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for RAF Claims?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Proven success in delayed or complex RAF matters",
+          "Personalised support and clear communication at every stage",
+          "“No Win, No Fee” options available for qualifying cases",
+          "A client-first approach that restores dignity, not just numbers"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: If you or a loved one has been injured in a motor accident, speak to us today. Your rights and your future matter."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an Attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/newsletter-2/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/newsletter-2/",
+    "title": "Newsletter",
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/wills-and-estates/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/wills-and-estates/",
+    "title": "Wills and Estates",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Wills and Estates"
+      },
+      {
+        "type": "heading",
+        "text": "Protecting your legacy and guiding families with care and clarity"
+      },
+      {
+        "type": "paragraph",
+        "text": "Planning for the future or managing the affairs of a loved one after their passing is one of the most important responsibilities anyone can face. At TNR Attorneys, we help individuals and families plan, protect, and administer their estates with professionalism, empathy, and legal precision."
+      },
+      {
+        "type": "paragraph",
+        "text": "We understand that these matters involve both legal and emotional considerations. Our goal is to make every process clear, respectful, and efficient so that your wishes are honoured and your family’s peace of mind is preserved."
+      },
+      {
+        "type": "heading",
+        "text": "We assist clients with:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Drafting valid and comprehensive wills that clearly reflect your wishes",
+          "Reporting and administering deceased estates through the Master of the High Court",
+          "Handling estate disputes and contested wills",
+          "Advising executors, heirs, and beneficiaries on their legal rights and responsibilities",
+          "Setting up and managing family trusts for estate planning and asset protection"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Will Drafting and Planning: We prepare legally sound wills that prevent confusion or conflict, ensuring your estate is distributed according to your intentions.",
+          "Estate Administration: We guide families through every step of the process, from reporting the estate to the Master of the High Court to distributing assets lawfully.",
+          "Dispute Resolution: We assist when disagreements arise between heirs or beneficiaries, helping to resolve them fairly and efficiently.",
+          "Trusts and Legacy Planning: We help create and manage trusts for dependents or future generations, ensuring long-term financial security and compliance."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Real Results: We assisted a mother whose son passed away before receiving his compensation from the Road Accident Fund. Our team managed the administration of his deceased estate with professionalism and care, ensuring the rightful beneficiaries were protected and that the process complied with all legal requirements."
+      },
+      {
+        "type": "paragraph",
+        "text": "We have also guided families through complex estate disputes, ensuring that the wishes of the deceased were respected and that fairness was achieved among heirs."
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Wills and Estates?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Experienced in both estate planning and estate administration",
+          "Compassionate and professional approach during sensitive times",
+          "Clear guidance and transparent communication at every step",
+          "Trusted by families to ensure their loved ones’ wishes are honoured"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: Whether you need to draft a will, administer an estate, or resolve an inheritance dispute, our team is here to help. Let TNR Attorneys guide you with the care and clarity you deserve."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/commercial-law/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/commercial-law/",
+    "title": "Commercial Law",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Commercial Law"
+      },
+      {
+        "type": "paragraph",
+        "text": "Running a business in today’s complex environment requires more than just good instincts. It demands legal foresight, clear contracts, and reliable partners who understand both the risks and the opportunities. At TNR Attorneys, we help businesses operate with confidence by providing sound legal advice, effective dispute resolution, and practical commercial strategies."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our role is to ensure that your business is protected at every stage of its journey, from negotiation and contracting to compliance and litigation. We act as trusted legal partners who understand that every decision impacts both your reputation and your bottom line."
+      },
+      {
+        "type": "heading",
+        "text": "We assist clients with:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Drafting, reviewing, and negotiating commercial contracts",
+          "Resolving partnership, shareholder, and supplier disputes",
+          "Advising on compliance, governance, and corporate risk",
+          "Guiding mergers, acquisitions, and restructuring processes",
+          "Providing legal support for long-term business strategy"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Business Review: We analyse your operations and existing agreements to identify risks and opportunities.",
+          "Strategic Advice: We provide practical legal guidance that aligns with your commercial objectives.",
+          "Representation: We protect your interests in negotiations, mediations, or court proceedings.",
+          "Compliance Support: We help you meet legal and regulatory obligations so you can focus on growth."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Real Results: We represented a Community Property Association in a 100-year lease agreement that disadvantaged its members. Through our intervention, the lease was declared invalid and renegotiated to secure fair rental payments, BEE participation, and socio-economic investment for the community. We resolved a shareholder dispute within months, preserving company stability and protecting the value of the business."
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Commercial Law?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Deep understanding of both business operations and legal frameworks",
+          "Proven success in high-value and complex transactions",
+          "Practical, risk-aware advice that helps you make informed decisions",
+          "Commitment to professionalism, transparency, and long-term client relationships"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/contract-drafting-and-legal-review/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/contract-drafting-and-legal-review/",
+    "title": "Contract Drafting and Legal Review",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Contract Drafting and Legal Review"
+      },
+      {
+        "type": "heading",
+        "text": "Building strong foundations for lasting business relationships"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every successful business relationship begins with a clear and well-drafted contract. At TNR Attorneys, we help clients create, review, and refine agreements that protect their interests, manage risk, and prevent future disputes. Whether you are a start-up, an established company, or a community organisation, our goal is to ensure that your agreements work for you, not against you."
+      },
+      {
+        "type": "paragraph",
+        "text": "We assist clients with:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Drafting new contracts that are legally sound and commercially practical",
+          "Reviewing existing agreements to identify risks or gaps",
+          "Negotiating terms that safeguard your interests while maintaining good business relationships",
+          "Updating contracts to comply with new legislation or business changes",
+          "Providing strategic legal advice before you sign any binding agreement"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Our experience covers a wide range of commercial agreements, including:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Shareholder and partnership agreements",
+          "Supply and service contracts",
+          "Lease agreements",
+          "Employment and consultancy contracts",
+          "Joint venture and collaboration agreements",
+          "Non-disclosure and confidentiality agreements"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Consultation: We take time to understand your business goals and the nature of the agreement.",
+          "Drafting and Review: We prepare or review the document with precision, ensuring that every clause is clear and enforceable.",
+          "Negotiation Support: We assist you in reaching balanced terms that protect your rights without compromising business relationships.",
+          "Implementation: We help finalise and execute the agreement, ensuring that it aligns with legal and regulatory standards."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Real Results: We have helped companies and community organisations strengthen their agreements before major partnerships or investments, preventing potential disputes and ensuring compliance with corporate and contractual laws. Our careful contract reviews have saved clients from entering into one-sided agreements that would have caused significant financial loss."
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Contract Drafting and Review?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Skilled in balancing legal precision with commercial practicality",
+          "Experienced in a wide range of contract types and industries",
+          "Focused on risk prevention and long-term client protection",
+          "Committed to transparency and ongoing client education"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All The Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/labour-and-administrative-law/",
+    "kind": "page",
+    "source": "https://www.tnrattorneys.co.za/labour-and-administrative-law/",
+    "title": "Labour and Administrative Law",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Labour and Administrative Law"
+      },
+      {
+        "type": "heading",
+        "text": "Protecting fairness, dignity, and compliance in the workplace"
+      },
+      {
+        "type": "paragraph",
+        "text": "Workplace and administrative disputes can affect people and organisations in very real ways. Whether you are an employee facing unfair treatment or an employer navigating complex compliance obligations, TNR Attorneys provides balanced and effective legal support to achieve fair and lawful outcomes."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our team combines legal insight with practical experience to help both individuals and businesses handle employment and administrative matters with confidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "We assist clients with:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Unfair dismissal, retrenchment, and workplace discrimination",
+          "Employment contracts, workplace policies, and disciplinary procedures",
+          "Representation at the CCMA, bargaining councils, and the Labour Court",
+          "Compliance with labour laws and employment regulations",
+          "Administrative reviews and challenges against public bodies or municipalities"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "For Employees: We help workers defend their rights and restore their livelihoods when they have been unfairly dismissed, underpaid, or discriminated against. We provide guidance through every step of the process, ensuring that their voices are heard and that justice is achieved."
+      },
+      {
+        "type": "paragraph",
+        "text": "For Employers: We assist companies and institutions in maintaining compliance with South African labour legislation, managing employee relations, and preventing disputes through proper legal frameworks and policies. Our advice helps organisations act fairly, lawfully, and efficiently in all employment matters."
+      },
+      {
+        "type": "heading",
+        "text": "How We Help:"
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "Consultation: We assess the situation and provide clear, actionable legal advice.",
+          "Representation: We represent clients before the CCMA, bargaining councils, or in court proceedings.",
+          "Resolution: We negotiate settlements where appropriate and litigate when necessary.",
+          "Prevention: We develop strategies, contracts, and policies that minimise future risks."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Real Results: We represented a former Municipal Manager who was unfairly dismissed and successfully restored his professional reputation. The Municipality later commended TNR Attorneys for the professionalism shown throughout the proceedings. We have also guided employers through restructuring processes and compliance audits, helping them avoid disputes and maintain lawful workplace practices."
+      },
+      {
+        "type": "heading",
+        "text": "Why Choose TNR Attorneys for Labour and Administrative Law?"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Proven experience representing both employees and employers",
+          "Deep understanding of labour, employment, and administrative frameworks",
+          "Strong advocacy combined with practical business and human insight",
+          "A commitment to fairness, dignity, and lawful outcomes for all parties"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Next Step: If you are facing a workplace dispute or an administrative decision that affects your rights or your organisation, we can help. Speak to our team today for professional and practical legal support."
+      },
+      {
+        "type": "heading",
+        "text": "Are you looking for an attorney?"
+      },
+      {
+        "type": "heading",
+        "text": "Let us help you! Call Now : 012 546 6948"
+      },
+      {
+        "type": "heading",
+        "text": "Our Team"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Toohey RambauDirector & Founder",
+          "Apfeswaho Gideon VeleSenior Associate",
+          "Vuyisa NtlokoCandidate Attorney"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "BOOK A CONSULTATION",
+        "href": "https://www.tnrattorneys.co.za/contact/"
+      },
+      {
+        "text": "View All The Team Members",
+        "href": "https://www.tnrattorneys.co.za/meettheteam/"
+      },
+      {
+        "text": "Toohey Rambau",
+        "href": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/"
+      },
+      {
+        "text": "Apfeswaho Gideon Vele",
+        "href": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/"
+      },
+      {
+        "text": "Vuyisa Ntloko",
+        "href": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/"
+      }
+    ]
+  },
+  {
+    "path": "/attorneys/ndamulelo-moshapo/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/ndamulelo-moshapo/",
+    "title": "Ndamulelo Moshapo – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/bb149deab43e.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Ndamulelo-Moshapo.png"
+      },
+      {
+        "type": "heading",
+        "text": "Ndamulelo Moshapo"
+      },
+      {
+        "type": "heading",
+        "text": "Role & Responsibilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Moshapo provides critical administrative and operational support across the firm. His day-to-day responsibilities include:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Organising and managing legal files, client records, and administrative correspondence",
+          "Coordinating office schedules, appointments, and internal meetings",
+          "Assisting with client intake, queries, and updates to ensure a professional client experience",
+          "Supporting attorneys with document preparation, filing, and logistics for case management",
+          "Upholding confidentiality and maintaining smooth workflow across departments"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "As a key support figure in the firm, he ensures the attorneys and legal staff operate in a well-organised and efficient environment."
+      },
+      {
+        "type": "heading",
+        "text": "Experience & Skills"
+      },
+      {
+        "type": "paragraph",
+        "text": "With nearly two years of legal administrative experience, Mr. Moshapo is well-versed in:"
+      },
+      {
+        "type": "heading",
+        "text": "Pratice Areas"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Practice management systems and Microsoft Office tools",
+          "Document Handling, Deadline Tracking, & Digital File Management",
+          "Client Coordination & Internal Workflow Processes"
+        ]
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/attorneys/michael-malebati/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/michael-malebati/",
+    "title": "Michael Malebati – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/960879b12745.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Michael-Malebati.png"
+      },
+      {
+        "type": "heading",
+        "text": "Michael Malebati"
+      },
+      {
+        "type": "paragraph",
+        "text": "Email michael@tnrattorneys.co.za"
+      },
+      {
+        "type": "paragraph",
+        "text": "Phone012 546 6948 | 071 308 8035"
+      },
+      {
+        "type": "heading",
+        "text": "Role & Responsibilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Malebati plays a pivotal role in ensuring the smooth operation of legal processes across the firm."
+      },
+      {
+        "type": "heading",
+        "text": "His responsibilities include:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Drafting and preparing legal documents across multiple practice areas",
+          "Managing case files, litigation timelines, and coordinating court submissions",
+          "Providing professional support in matters such as third-party claims, medical negligence, unlawful arrest, and estate administration",
+          "Acting as a key liaison between attorneys and clients, ensuring timely updates and communication",
+          "Supporting efficient workflow by streamlining administrative and legal tasks"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "As a senior team member, he ensures legal matters are handled with professionalism, precision, and client care."
+      },
+      {
+        "type": "heading",
+        "text": "Experience & Skills"
+      },
+      {
+        "type": "paragraph",
+        "text": "With over a decade of experience in legal administration, Mr. Malebati has provided secretarial support on:"
+      },
+      {
+        "type": "heading",
+        "text": "Pratice Areas"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Litigation, Personal injury Claims, and Estate-Related Matters",
+          "Case Preparation & Document Handling for Third-party & Medical Negligence Claims",
+          "Court Filing, Scheduling, & Attorney Diary Management"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "He holds professional secretarial certifications and has been recognised twice as “Secretary of the Year.” His strong organisational skills, attention to detail, and client service approach ensure a seamless legal process and high-quality internal support for attorneys."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/attorneys/promise-mgabi/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/promise-mgabi/",
+    "title": "Promise Mgabi – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/ba8652ca321e.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Promise-Mgabi.png"
+      },
+      {
+        "type": "heading",
+        "text": "Promise Mgabi"
+      },
+      {
+        "type": "paragraph",
+        "text": "Email promise@tnrattorneys.co.za"
+      },
+      {
+        "type": "paragraph",
+        "text": "Phone082 817 2166 | 071 899 4063 | 010 020 6368"
+      },
+      {
+        "type": "heading",
+        "text": "Role & Responsibilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ms. Mgabi plays a crucial support role within the legal team and client services, including"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Acting as the first point of contact for new clients and connecting them with appropriate legal support",
+          "Assisting clients in completing consultation and mandate documents, particularly in Road Accident Fund (RAF) matters",
+          "Explaining legal processes, rights, and obligations in a client-friendly manner",
+          "Managing client communication to ensure they are informed and supported throughout their legal journey",
+          "Coordinating client intake and ensuring administrative readiness for attorney consultations"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Her role bridges legal expertise and client care, ensuring a smooth, professional, and empathetic experience for every client."
+      },
+      {
+        "type": "heading",
+        "text": "Experience & Skills"
+      },
+      {
+        "type": "paragraph",
+        "text": "With direct experience in client engagement and legal support functions, Ms. Mgabi brings:"
+      },
+      {
+        "type": "heading",
+        "text": "Pratice Areas"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Expertise In Personal Injury Law Processes, especially RAF-related matters",
+          "Strong Communication & Problem-solving Skills to simplify Complex Legal Concepts",
+          "A Deep Commitment to Client Service, Responsiveness, and Trust-Building",
+          "An ability to foster Clarity, Confidence, & Understanding among Clients Navigating Legal Processes"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Her professionalism and empathetic approach enhance the firm’s commitment to accessible and client-centred legal service."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/attorneys/vuyisa-ntloko/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/vuyisa-ntloko/",
+    "title": "Vuyisa Ntloko – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/6262e77261b6.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Vuyisa-Ntloko.png"
+      },
+      {
+        "type": "heading",
+        "text": "Mr Vuyisa Ntloko"
+      },
+      {
+        "type": "heading",
+        "text": "Role & Responsibilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Ntloko supports the legal team through a wide range of responsibilities, including"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Drafting legal pleadings, notices, pre-trial documents, and discovery under supervision",
+          "Scheduling and managing attorney diaries and court dates",
+          "Accompanying senior attorneys and counsel to court appearances",
+          "Updating clients on the progress of their matters",
+          "Making appearances in lower courts where applicable"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "He plays a vital role in supporting litigation and client service delivery within the firm."
+      },
+      {
+        "type": "heading",
+        "text": "Pratice Areas"
+      },
+      {
+        "type": "paragraph",
+        "text": "With over two years of experience in the legal environment, Mr. Ntloko has worked across various legal disciplines, including:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Personal Injury Claims (RAF & medical negligence)",
+          "Family Law, Labour Law, & Deceased Estates",
+          "Drafting and Legal Research for Civil Litigation Matters"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "He has developed strong case management, client communication, and court preparation skills. His professionalism, legal curiosity, and respect for courtroom and workplace etiquette reflect his commitment to growing into a capable legal practitioner."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/attorneys/apfeswaho-gideon-vele/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/apfeswaho-gideon-vele/",
+    "title": "Apfeswaho Gideon Vele – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/289ee336bebb.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Apfeswaho-Gideon-Vele.png"
+      },
+      {
+        "type": "heading",
+        "text": "Mr Apfeswaho Gideon Vele"
+      },
+      {
+        "type": "paragraph",
+        "text": "Email gideon@tnrattorneys.co.za"
+      },
+      {
+        "type": "paragraph",
+        "text": "Phone 012 546 6948 | 068 203 0298"
+      },
+      {
+        "type": "heading",
+        "text": "CAREER BACKGROUND"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Vele holds an LLB degree and is an admitted attorney with the right of appearance in the High Court of South Africa. With over four years of post-admission experience, he has developed a broad and effective legal practice, serving both individuals and businesses. His skillset spans litigation, advisory, and dispute resolution, with a focus on ensuring justice and fair outcomes for every client."
+      },
+      {
+        "type": "heading",
+        "text": "Professional Affiliations"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Admitted Attorney of the High Court of South Africa",
+          "Member – Legal Practice Council of South Africa"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Community & Personal Involvement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Vele is passionate about mentorship and community upliftment. He has guided junior attorneys and legal candidates in key areas of law while also contributing to legal access initiatives in his village. His work reflects a deep commitment to empowerment and ethical legal practice."
+      },
+      {
+        "type": "heading",
+        "text": "Areas of Specialisation"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Vele brings strong, client-focused legal expertise across diverse fields of practice. His work includes:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Medical Negligence & Third-party Claims",
+          "Estate Administration & Family Law",
+          "Structuring of Trusts & Inheritance Matters",
+          "Commercial Transactions & Civil Litigation",
+          "Criminal Defence with Courtroom Advocacy"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "He is known for delivering tailored, results-driven legal support with professionalism and care."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/attorneys/toohey-rambau/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/toohey-rambau/",
+    "title": "Toohey Rambau – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/022bd08d7b42.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Toohey-Rambau.png"
+      },
+      {
+        "type": "heading",
+        "text": "Ms. Toohey Rambau"
+      },
+      {
+        "type": "paragraph",
+        "text": "toohey@tnrattorneys.co.za 012 546 6948 | 071 899 4063"
+      },
+      {
+        "type": "heading",
+        "text": "Career Background"
+      },
+      {
+        "type": "paragraph",
+        "text": "Toohey Rambau is the Founder and Managing Attorney at TNR Attorneys. With a strong foundation in regulatory risk and legal compliance, she transitioned into legal practice in 2014, following roles in the National Credit Regulator and Competition Commission. Her legal career has spanned civil litigation, municipal law, labour disputes, and administrative processes. In 2020, she established TNR Attorneys Inc., where she now leads on strategic litigation, commercial advisory, and key client engagement."
+      },
+      {
+        "type": "heading",
+        "text": "Professional Affiliations"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Admitted Attorney of the High Court of South Africa",
+          "Registered Member: Legal Practice Council of South Africa"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Community & Personal Involvement"
+      },
+      {
+        "type": "paragraph",
+        "text": "Toohey is actively involved in legal education initiatives and currently serves as a Committee Member for a non-profit legal advisory body. Her passion lies in helping institutions improve governance through legal literacy and compliance training."
+      },
+      {
+        "type": "heading",
+        "text": "Area of Specialisation"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Commercial contract drafting & vetting Administrative and municipal law",
+          "Administrative and municipal law",
+          "Labour law advisory & representation",
+          "Regulatory compliance & public sector governance"
+        ]
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/attorneys/leroy-malahlela/",
+    "kind": "personnel",
+    "source": "https://www.tnrattorneys.co.za/attorneys/leroy-malahlela/",
+    "title": "Leroy Malahlela – TNR Attorneys",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/b65c4f01f8c3.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/09/Leroy-Malahlela.png"
+      },
+      {
+        "type": "heading",
+        "text": "Leroy Malahlela"
+      },
+      {
+        "type": "heading",
+        "text": "Role & Responsibilities"
+      },
+      {
+        "type": "paragraph",
+        "text": "Mr. Malahlela plays a key support role in the firm’s daily operations."
+      },
+      {
+        "type": "paragraph",
+        "text": "His responsibilities include:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Delivering and collecting legal documents from courts, clients, and service providers",
+          "Managing external errands to support attorneys and office staff",
+          "Assisting with client transport where required",
+          "Handling time-sensitive and confidential deliveries with professionalism",
+          "Supporting the overall logistics of legal processes"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "His reliability ensures smooth communication between the firm, clients, and external institutions."
+      },
+      {
+        "type": "paragraph",
+        "text": "With over two years of experience in his role, Mr. Malahlela has developed strong operational awareness and support capabilities, including"
+      },
+      {
+        "type": "heading",
+        "text": "Experience & Skills"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Understanding of client transport logistics and safety considerations",
+          "Familiarity with court procedures for filing and serving legal documents",
+          "Dependability in meeting tight deadlines and urgent errands",
+          "Basic recordkeeping and delivery tracking for document flow",
+          "Professionalism in interacting with clients and court staff"
+        ]
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/portfolio/case-study-1/",
+    "kind": "portfolio",
+    "source": "https://www.tnrattorneys.co.za/portfolio/case-study-1/",
+    "title": "RAF CLAIM: FROM HOPELESSNESS TO JUSTICE RESTORED",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "In 2007, a dedicated teacher’s life was turned upside down after a serious motor accident. She sustained severe injuries that left her unable to walk unaided and struggling with long-term memory loss. These challenges continue to affect her life today."
+      },
+      {
+        "type": "paragraph",
+        "text": "For more than a decade, her case remained unresolved by another law firm. The delays left her with no closure and little faith in the legal system. By 2022, she had almost lost all hope of ever seeing justice."
+      },
+      {
+        "type": "paragraph",
+        "text": "That is when she approached TNR Attorneys. As specialists in RAF claims, our team immediately took control of the matter, applied our expertise, and successfully finalised her claim within only two years."
+      },
+      {
+        "type": "paragraph",
+        "text": "The outcome was life-changing. She secured a multi-million rand settlement, purchased a beautiful property in a safe and secure environment, and regained both her dignity and confidence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Today, she remains one of our strongest advocates, regularly referring new clients to TNR Attorneys. For us, the greatest reward was not just winning her case but restoring her trust in justice and access to the law."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/portfolio/casestudy2/",
+    "kind": "portfolio",
+    "source": "https://www.tnrattorneys.co.za/portfolio/casestudy2/",
+    "title": "LABOUR LAW: RESTORING JUSTICE IN AN UNFAIR DISMISSAL CASE",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A former Municipal Manager faced an unfair dismissal that placed both his professional reputation and livelihood at risk. He turned to TNR Attorneys for representation, determined to challenge the decision and restore his name."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our team stepped in to prepare and present the case with precision and professionalism. Every stage of the proceedings was managed carefully to ensure fairness and accountability. The outcome was a decisive victory for our client. Not only was the matter resolved in his favour, but the Municipality itself commended TNR Attorneys for the high level of professionalism with which the proceedings were conducted."
+      },
+      {
+        "type": "paragraph",
+        "text": "This case highlights the TNR difference: we fight to achieve the right outcomes for our clients while upholding the highest standards of ethics and respect in the courtroom."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/portfolio/casestudy3/",
+    "kind": "portfolio",
+    "source": "https://www.tnrattorneys.co.za/portfolio/casestudy3/",
+    "title": "WORKMEN’S COMPENSATION: JUSTICE AFTER TWO DECADES",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A former employee had been waiting since the year 2000 for his Workmen’s Compensation claim to be resolved. The matter had remained unresolved for twenty years, leaving him frustrated and hopeless."
+      },
+      {
+        "type": "paragraph",
+        "text": "In 2020, he approached TNR Attorneys. We agreed to take on the case on a No Win, No Fee basis, ensuring he would not face any additional financial burden. Our team assembled the right legal experts, applied a thorough strategy, and pursued the matter with determination."
+      },
+      {
+        "type": "paragraph",
+        "text": "In the early months of 2025, the case was finalised and settled. The client received the compensation he had been waiting for and expressed his deep satisfaction with the outcome."
+      },
+      {
+        "type": "paragraph",
+        "text": "Today, he proudly shares his story within his community, telling others about how TNR Attorneys stood by him and made justice possible after so many years. For him, it was not only about the money; it was about finally being heard and respected."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/portfolio/casestudy4/",
+    "kind": "portfolio",
+    "source": "https://www.tnrattorneys.co.za/portfolio/casestudy4/",
+    "title": "MEDICAL NEGLIGENCE: RESTORING DIGNITY AFTER A BOTCHED PROCEDURE",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Sometimes the role of an attorney goes beyond legal representation. At TNR Attorneys, we understand that clients often arrive not only with legal battles but also with emotional scars. Our first responsibility is to provide a safe and supportive environment before addressing the legal challenges."
+      },
+      {
+        "type": "paragraph",
+        "text": "One such case involved a young man who had trusted a government programme offering free circumcision services. What he believed would be a routine procedure turned into a devastating medical negligence event that left him unable to use his body as intended. The physical and emotional trauma led him to the brink of losing hope and even considering taking his own life."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our team at TNR Attorneys reassured him, restored his confidence, and assembled the necessary medical and legal experts to prove that the state had breached its duty of care. Through strong representation and skilled negotiation, we established liability for the botched procedure and its life-altering consequences."
+      },
+      {
+        "type": "paragraph",
+        "text": "The matter was resolved through mediation, with the state agreeing to a fair settlement covering non-pecuniary damages, future medical expenses, and loss of earnings."
+      },
+      {
+        "type": "paragraph",
+        "text": "Today, this young man’s right to dignity has been restored. Instead of despair, he now has access to treatment and support, and suicide is no longer a thought in his mind."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/portfolio/casestudy5/",
+    "kind": "portfolio",
+    "source": "https://www.tnrattorneys.co.za/portfolio/casestudy5/",
+    "title": "WILLS AND ESTATES: ENSURING JUSTICE AFTER A TRAGIC LOSS",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "At TNR Attorneys, we pride ourselves on guiding families through difficult times with professionalism and care. One of our recent matters involved a mother whose son had been awarded compensation from the Road Accident Fund after a serious accident. Tragically, the son passed away before receiving the payment."
+      },
+      {
+        "type": "paragraph",
+        "text": "We stepped in to assist with the administration of his deceased estate, ensuring the process was handled efficiently and in full compliance with the law. From reporting the estate to the Master of the High Court, to accounting for assets and liabilities, to securing rightful inheritance for the beneficiaries, our team ensured that the family received closure and that justice was served."
+      },
+      {
+        "type": "paragraph",
+        "text": "Our role extended beyond administration. We provided professional advice on estate planning, including the potential establishment of trusts for long-term family security. By drafting trust deeds, liaising with financial institutions, and ensuring compliance with statutory requirements, we ensured that the estate was protected and the mother could focus on healing rather than bureaucracy."
+      },
+      {
+        "type": "paragraph",
+        "text": "This case reflects our broader commitment to supporting families in moments of both loss and transition, always ensuring that the wishes of the deceased and the rights of beneficiaries are respected."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/portfolio/casestudy6/",
+    "kind": "portfolio",
+    "source": "https://www.tnrattorneys.co.za/portfolio/casestudy6/",
+    "title": "COMMERCIAL LAW: PROTECTING COMMUNITY INTERESTS IN A LANDMARK LAND DEAL",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "TNR Attorneys was approached by a Community Property Association (CPA) to review a long-term agreement affecting more than 1,000 hectares of land. The CPA, under its previous leadership, had entered into a notarial lease of over 100 years and signed a Memorandum of Incorporation (MOI) to govern relations between the parties and investors."
+      },
+      {
+        "type": "paragraph",
+        "text": "On review, it became clear that the agreement did not protect the rights of the CPA members. Instead, it placed the interests of investors, including a Special Economic Zone (SEZ) and other stakeholders, far above those of the community. The lease and MOI failed to provide fair benefits, skills development, or adequate socio-economic investment for the members who were most affected."
+      },
+      {
+        "type": "paragraph",
+        "text": "TNR Attorneys intervened and successfully challenged the arrangement. The notarial lease agreement was declared invalid, and the parties were required to re-negotiate terms that were fair and favourable to the CPA members. These included recognition of the members as local community participants for BEE purposes, fair rental payments, skills development and transfer, and socio-economic investment commitments from the investors."
+      },
+      {
+        "type": "paragraph",
+        "text": "The renegotiated outcome not only secured immediate benefits for the CPA members but also created long-term opportunities for empowerment and sustainable growth."
+      },
+      {
+        "type": "paragraph",
+        "text": "Today, the CPA continues to reap the rewards of the new arrangement and has retained TNR Attorneys as its trusted legal advisors for more than three years."
+      }
+    ],
+    "links": []
+  },
+  {
+    "path": "/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/",
+    "kind": "post",
+    "source": "https://www.tnrattorneys.co.za/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/",
+    "title": "Lessons from Dying Intestate: Why a Valid Will Matter",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/be2f230c83b9.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Will-Estate-Blog.png"
+      },
+      {
+        "type": "heading",
+        "text": "The Risk of Dying Without a Valid Will"
+      },
+      {
+        "type": "paragraph",
+        "text": "In South Africa, dying intestate, that is, without leaving a valid will, results in the deceased’s estate being distributed in accordance with the Intestate Succession Act 81 of 1987. This statutory framework operates on a fixed formula, which often bears little resemblance to the wishes of the deceased. The surviving spouse is entitled to half of the estate and then on remaining half, the greater of R250,000 or a child’s share, while children share equally in the balance of the estate. Where minor children are left without a surviving parent, the Master of the High Court assumes responsibility for appointing a guardian. Cohabitating partners who are not legally married are excluded from succession altogether. Furthermore, the estate remains frozen until the Master formally appoints an executor, leaving dependents financially vulnerable during an already difficult time."
+      },
+      {
+        "type": "heading",
+        "text": "Consequences of Intestacy"
+      },
+      {
+        "type": "paragraph",
+        "text": "The consequences of dying intestate extend beyond the rigid distribution of assets. Estate administration becomes immediately restricted, as no one may access or deal with the assets until an executor has been officially appointed by the Master. Families may find themselves in financial distress while awaiting this appointment, particularly where the deceased was the primary breadwinner. The result is a delay that compounds the hardship experienced by grieving dependents."
+      },
+      {
+        "type": "heading",
+        "text": "Avoiding the Pitfalls of Intestacy"
+      },
+      {
+        "type": "paragraph",
+        "text": "The most effective means of avoiding these legal complications is the drafting of a valid will. By doing so, individuals ensure that their assets are distributed in accordance with their wishes rather than by statutory default. Legal advice is indispensable in this process, as an attorney can assist in ensuring that a will is drafted with clarity, validity, and enforceability. It is equally important to communicate these wishes with family members, thereby minimising the risk of conflict and disputes after death."
+      },
+      {
+        "type": "heading",
+        "text": "A Cautionary Tale: The Estate Battle of the Late Former Deputy President"
+      },
+      {
+        "type": "paragraph",
+        "text": "The dangers of intestacy are aptly illustrated by the ongoing estate dispute involving the late former Deputy President. In adjudicating the matter, Judge Johannes Roelofse observed that such disputes frequently devastate families, leaving wounds that the deceased would likely never have intended. He implored the family to seek dialogue and reconciliation, while further emphasising that dependents of the deceased should not be left destitute or displaced. The case underscores the societal and familial consequences of inadequate estate planning and serves as a cautionary example of why careful preparation is indispensable."
+      },
+      {
+        "type": "heading",
+        "text": "The Protective Role of Pension Funds"
+      },
+      {
+        "type": "paragraph",
+        "text": "Beyond wills and succession law, pension funds also provide critical safeguards to dependents. In terms of Section 7C(2) of the Pension Funds Act, fund boards are bound by fiduciary duties that require them to act with care, diligence, impartiality, and good faith. These duties extend to protecting the interests of members and beneficiaries, ensuring the financial soundness of funds, and avoiding conflicts of interest. In the context of intestacy, these statutory protections may serve as a vital safety net for dependents, ensuring continuity of support when estate disputes threaten financial stability."
+      },
+      {
+        "type": "heading",
+        "text": "How TNR Attorneys Inc. Can Assist"
+      },
+      {
+        "type": "paragraph",
+        "text": "At TNR Attorneys Inc, we recognise the profound legal and personal implications of dying intestate. Our firm is dedicated to assisting clients with the drafting of valid wills that are legally sound, enforceable, and reflective of their true intentions. We also provide guidance on estate planning strategies, assist families with estate administration, and advise on pension fund benefit claims. In doing so, we seek to ensure that our clients’ wishes are honoured, and their families are spared the distress and uncertainty that inevitably accompany intestacy."
+      }
+    ],
+    "links": [
+      {
+        "text": "Wills & Estate",
+        "href": "https://www.tnrattorneys.co.za/category/wills-estate/"
+      },
+      {
+        "text": "Law",
+        "href": "https://www.tnrattorneys.co.za/tag/law/"
+      },
+      {
+        "text": "Wills & Estates",
+        "href": "https://www.tnrattorneys.co.za/tag/wills-estates/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "April 7, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "March 3, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/"
+      }
+    ]
+  },
+  {
+    "path": "/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/",
+    "kind": "post",
+    "source": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/",
+    "title": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/dae4bae336a7.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/10/Marriage.png"
+      },
+      {
+        "type": "heading",
+        "text": "1. Introduction"
+      },
+      {
+        "type": "paragraph",
+        "text": "Marriage is not only a union of hearts but also a legal and financial partnership governed by the laws of the Republic of South Africa. The choice of a marital regime determines how spouses’ assets, liabilities, and financial interests will be managed during the marriage and upon its dissolution through death or divorce. It is therefore imperative that couples understand the legal implications of each marriage regime before committing to marriage"
+      },
+      {
+        "type": "paragraph",
+        "text": "South African matrimonial property law is primarily governed by the Matrimonial Property Act 88 of 1984, the Marriage Act 25 of 1961, and the Recognition of Customary Marriages Act 120 of 1998. These statutes provide the framework within which couples may determine their property relations."
+      },
+      {
+        "type": "heading",
+        "text": "2. Marriage In Community of Property"
+      },
+      {
+        "type": "paragraph",
+        "text": "In a marriage in community of property, both spouses share a single, joint estate. Upon marriage, all assets and liabilities, whether acquired before or during the marriage, are combined. When the marriage is dissolved, either by divorce or death, the joint estate is divided equally between the spouses after all debts have been settled. While this system promotes equality, it also carries certain disadvantages. Both parties become jointly and severally liable for each other’s debts, and spousal consent is required for significant financial transactions such as:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "The purchase or sale of immovable property;",
+          "The sale of shares or investment assets;",
+          "The signing of suretyship agreements; and",
+          "The withdrawal or transfer of funds from fixed deposits"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "This regime is the default marital system in South Africa unless the parties expressly agree otherwise by executing an antenuptial contract."
+      },
+      {
+        "type": "heading",
+        "text": "3. Marriage Out of Community of Property Without Accrual"
+      },
+      {
+        "type": "paragraph",
+        "text": "A marriage out of community of property without accrual allows each spouse to retain full control over their individual assets and liabilities. This arrangement requires the parties to execute an Antenuptial Contract (ANC) before marriage. The ANC is a notarial deed that must be registered in the Deeds Office within three months of execution, or within six months if executed outside the Republic."
+      },
+      {
+        "type": "paragraph",
+        "text": "This regime follows the principle of ‘what is mine is mine, and what is yours is yours.’ Each spouse is responsible for their own debts and enjoys financial independence. It is particularly suitable for individuals who wish to protect personal or business assets from the financial risks of their partner."
+      },
+      {
+        "type": "paragraph",
+        "text": "However, recently the courts are empowered to exercise discretion on whether to accept the ANC or reject, each case depends on its own merits."
+      },
+      {
+        "type": "heading",
+        "text": "4. Marriage Out of Community of Property With Accrual"
+      },
+      {
+        "type": "paragraph",
+        "text": "The accrual system is a hybrid approach that combines aspects of financial independence during the marriage with equitable sharing upon its dissolution. An ANC is also required for this regime."
+      },
+      {
+        "type": "paragraph",
+        "text": "Under this system, each spouse retains ownership of their individual estate during the marriage. However, upon dissolution, the spouse whose estate has shown the lesser growth (accrual) is entitled to share in the other’s estate to achieve a fair balance. The law excludes certain assets from the accrual calculation, such as:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Inheritances;",
+          "Donations;",
+          "Personal injury awards; and",
+          "Assets expressly excluded in the ANC."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "This system promotes fairness by recognising the non-financial contributions of both spouses."
+      },
+      {
+        "type": "heading",
+        "text": "5. Customary and Cultural Considerations"
+      },
+      {
+        "type": "paragraph",
+        "text": "Despite the legal clarity of marital regimes, there is ongoing debate regarding their interaction with African customary law and cultural practices. In traditional African marriages, lobola plays a significant role in validating the marriage."
+      },
+      {
+        "type": "paragraph",
+        "text": "Some cultural perspectives hold that executing an ANC before lobola negotiations contradicts customary norms, as lobola traditionally signifies the formal intention to marry. In Mbungela & Another v Mkabi & Others (2019) ZASCA 134, the Supreme Court of Appeal held that where there is clear evidence of intent to marry under customary law such as a letter of intent or partial payment of lobola the marriage may be deemed valid even if formalities were incomplete."
+      },
+      {
+        "type": "paragraph",
+        "text": "This demonstrates the courts’ flexible and context-sensitive approach to reconciling statutory and customary marriage principles."
+      },
+      {
+        "type": "heading",
+        "text": "6. Changing the Marital Regime"
+      },
+      {
+        "type": "paragraph",
+        "text": "In terms of section 21 of the Matrimonial Property Act 88 of 1984, spouses may apply to the High Court to change their matrimonial property system after marriage. The application will only succeed if the following requirements are met:"
+      },
+      {
+        "type": "paragraph",
+        "text": "1. Both parties consent to the change;"
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Creditors are notified and do not suffer prejudice; and"
+      },
+      {
+        "type": "paragraph",
+        "text": "3. The new ANC is properly executed by a notary public and registered with the Deeds Office."
+      },
+      {
+        "type": "paragraph",
+        "text": "This ensures that the rights of third parties are protected while allowing couples to adjust their financial arrangements as circumstances evolve."
+      },
+      {
+        "type": "heading",
+        "text": "7. Conclusion"
+      },
+      {
+        "type": "paragraph",
+        "text": "Regardless of cultural criticism or public debate such as discussions surrounding high-profile marriages like that of the artist Black Coffee the law remains clear and enforceable. If a couple intends to marry out of community of property, they must execute an Antenuptial Contract before the marriage takes place, irrespective of whether lobola has been fully or partially paid."
+      },
+      {
+        "type": "paragraph",
+        "text": "Failure to do so results in the marriage automatically defaulting to in community of property, with all its accompanying consequences. Understanding the different marital regimes is therefore essential for anyone entering into marriage in South Africa, as these choices have lifelong legal and financial implications."
+      }
+    ],
+    "links": [
+      {
+        "text": "Wills & Estate",
+        "href": "https://www.tnrattorneys.co.za/category/wills-estate/"
+      },
+      {
+        "text": "Law",
+        "href": "https://www.tnrattorneys.co.za/tag/law/"
+      },
+      {
+        "text": "Wills & Estates",
+        "href": "https://www.tnrattorneys.co.za/tag/wills-estates/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "April 7, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "March 3, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/"
+      }
+    ]
+  },
+  {
+    "path": "/2025/10/17/legalinsights/",
+    "kind": "post",
+    "source": "https://www.tnrattorneys.co.za/2025/10/17/legalinsights/",
+    "title": "LEGAL INSIGHTS",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/716073e3f29f.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2026/04/TRN-Attorneys-INSIGHTS_Wills-vs.-Trusts.png"
+      },
+      {
+        "type": "heading",
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/8950f2d0366c.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2026/03/Divorce-in-South-Africa-Its-Not-War…-But-Its-Not-a-Group-Project-Either.png"
+      },
+      {
+        "type": "heading",
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/dae4bae336a7.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/10/Marriage.png"
+      },
+      {
+        "type": "heading",
+        "text": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/be2f230c83b9.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Will-Estate-Blog.png"
+      },
+      {
+        "type": "heading",
+        "text": "Lessons from Dying Intestate: Why a Valid Will Matter"
+      }
+    ],
+    "links": [
+      {
+        "text": "Expert Commentary & Analysis on the latest Legal Developments in South Africa",
+        "href": "https://www.tnrattorneys.co.za/category/expert-commentary-and-analysis-on-the-latest-legal-developments-in-south-africa/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/"
+      },
+      {
+        "text": "Lessons from Dying Intestate: Why a Valid Will Matter",
+        "href": "https://www.tnrattorneys.co.za/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "April 7, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "March 3, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/"
+      }
+    ]
+  },
+  {
+    "path": "/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+    "kind": "post",
+    "source": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+    "title": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/8950f2d0366c.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2026/03/Divorce-in-South-Africa-Its-Not-War…-But-Its-Not-a-Group-Project-Either.png"
+      },
+      {
+        "type": "heading",
+        "text": "Introduction"
+      },
+      {
+        "type": "paragraph",
+        "text": "We’ve all seen the movies. Someone throws a glass of expensive scotch, screams “I’ll see you in court!” and walks out into a waiting limousine."
+      },
+      {
+        "type": "paragraph",
+        "text": "In South Africa, the reality is usually a bit more… administrative. It involves less scotch-throwing and significantly more paperwork. If you’re at the point where “Netflix and Chill” has turned into “Separate Rooms and Silent Treatment,” it’s time to talk about the law."
+      },
+      {
+        "type": "paragraph",
+        "text": "Let’s be honest, nobody walks down the aisle thinking, “This will make a great court file one day.”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Yet divorce remains a reality for many South Africans. The key difference between a divorce that destroys lives and one that restores dignity often lies in one thing: information."
+      },
+      {
+        "type": "paragraph",
+        "text": "So let’s unpack divorce in South Africa, properly, factually, and without the courtroom drama you see on Moja Love."
+      },
+      {
+        "type": "list",
+        "ordered": true,
+        "items": [
+          "The Law: What Actually Ends a Marriage?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "In South Africa, divorce is governed primarily by the Divorce Act."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Act recognises one main ground for divorce:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Irretrievable breakdown of the marriage."
+      },
+      {
+        "type": "paragraph",
+        "text": "That’s it."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Not “he forgot our anniversary.”",
+          "Not “she doesn’t like my mother.”",
+          "Not even “we argue about the remote.”"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The court must be satisfied that the marriage relationship has broken down to such an extent that there is no reasonable prospect of restoration."
+      },
+      {
+        "type": "paragraph",
+        "text": "Examples include:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Separation for a continuous period"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Adultery"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Abuse"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Complete breakdown of communication"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "You don’t need to prove someone is a villain. You need to show the marriage cannot be saved."
+      },
+      {
+        "type": "paragraph",
+        "text": "Divorce is not about punishment. It is about legal closure."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "“But Who Gets What?” The Money Conversation Nobody Wants"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Before people argue about the couches, they need to understand their marital regime."
+      },
+      {
+        "type": "paragraph",
+        "text": "Your marriage system is governed by the Matrimonial Property Act."
+      },
+      {
+        "type": "paragraph",
+        "text": "You are either:"
+      },
+      {
+        "type": "paragraph",
+        "text": "🔹 Married In Community of Property"
+      },
+      {
+        "type": "paragraph",
+        "text": "Everything (assets and debts) falls into one joint estate."
+      },
+      {
+        "type": "paragraph",
+        "text": "Yes, that includes the car. And the credit card."
+      },
+      {
+        "type": "paragraph",
+        "text": "🔹 Married Out of Community of Property (With Accrual)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Each spouse keeps their own estate, but growth during the marriage is shared at divorce."
+      },
+      {
+        "type": "paragraph",
+        "text": "🔹 Married Out of Community of Property (Without Accrual)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Each spouse walks away with what is legally theirs."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here’s the uncomfortable truth:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many people don’t know what regime they’re married under."
+      },
+      {
+        "type": "paragraph",
+        "text": "And that lack of knowledge becomes expensive."
+      },
+      {
+        "type": "heading",
+        "text": "3. Children Are Not “Assets” to Be Won"
+      },
+      {
+        "type": "paragraph",
+        "text": "When children are involved, the court does not ask:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Who is the better parent?”"
+      },
+      {
+        "type": "paragraph",
+        "text": "The court asks:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“What is in the best interests of the child?”"
+      },
+      {
+        "type": "paragraph",
+        "text": "This principle is entrenched in Section 28 of the Constitution of the Republic of South Africa and further developed in the Children’s Act."
+      },
+      {
+        "type": "heading",
+        "text": "Important points:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Parental responsibilities and rights are not automatically removed because of divorce."
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Contact is a right of the child, not a reward for the parent."
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Maintenance is not optional, it is a legal obligation."
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Children are not trophies. They are not leverage. They are human beings protected by law."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "4. Maintenance: It’s About Need, Not Revenge"
+      },
+      {
+        "type": "paragraph",
+        "text": "Spousal maintenance is not automatic."
+      },
+      {
+        "type": "paragraph",
+        "text": "Under the Divorce Act, courts consider:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Financial needs"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Earning capacity"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Duration of the marriage"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Standard of living during the marriage"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Maintenance is not designed to “punish” the higher earner."
+      },
+      {
+        "type": "paragraph",
+        "text": "It exists to prevent unfair economic hardship."
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "That said, lifelong maintenance is rare unless circumstances justify it."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "5. Divorce Doesn’t Have to Be a Battlefield"
+      },
+      {
+        "type": "paragraph",
+        "text": "There are generally two types of divorce:"
+      },
+      {
+        "type": "paragraph",
+        "text": "🔹 Uncontested Divorce"
+      },
+      {
+        "type": "paragraph",
+        "text": "Where parties agree on:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Asset division"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Maintenance"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Parenting plans"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "This is faster, cheaper, and far less emotionally damaging."
+      },
+      {
+        "type": "paragraph",
+        "text": "🔹 Contested Divorce"
+      },
+      {
+        "type": "paragraph",
+        "text": "Where parties disagree."
+      },
+      {
+        "type": "paragraph",
+        "text": "This involves pleadings, possible trials, and higher costs."
+      },
+      {
+        "type": "paragraph",
+        "text": "Here’s something many people don’t realise:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most divorces settle before trial."
+      },
+      {
+        "type": "paragraph",
+        "text": "Court should be the last resort and not the opening move."
+      },
+      {
+        "type": "heading",
+        "text": "6. The Emotional Reality No One Mentions"
+      },
+      {
+        "type": "paragraph",
+        "text": "Divorce is not just a legal process. It is:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Financial restructuring"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Emotional adjustment"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Identity recalibration"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Sometimes even social repositioning"
+      },
+      {
+        "type": "paragraph",
+        "text": "People often say, “It’s just paperwork.”"
+      },
+      {
+        "type": "paragraph",
+        "text": "It isn’t."
+      },
+      {
+        "type": "paragraph",
+        "text": "It’s paperwork that reorganises your entire life."
+      },
+      {
+        "type": "paragraph",
+        "text": "That’s why proper legal guidance matters , not just to win, but to transition."
+      },
+      {
+        "type": "heading",
+        "text": "7. Let’s Talk About the Conversation We Avoid"
+      },
+      {
+        "type": "paragraph",
+        "text": "Here are questions worth asking:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Do you know what marital regime you’re married under?"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Do you know what would happen to your pension if you divorced?"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Do you know how maintenance is calculated?"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Do you know your rights or are you operating on tik tok advice?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Divorce law is technical. Social media is loud. Only one of them is binding."
+      },
+      {
+        "type": "heading",
+        "text": "Final Thought: Divorce Is Not Failure but It Is a Legal Process"
+      },
+      {
+        "type": "heading",
+        "text": "Marriage is a partnership."
+      },
+      {
+        "type": "heading",
+        "text": "Divorce is the legal dissolution of that partnership."
+      },
+      {
+        "type": "paragraph",
+        "text": "Handled correctly, it can:"
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Protect your dignity"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Protect your children"
+        ]
+      },
+      {
+        "type": "list",
+        "ordered": false,
+        "items": [
+          "Protect your financial future"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Handled emotionally and without guidance, it can cause avoidable damage."
+      },
+      {
+        "type": "paragraph",
+        "text": "The law exists not to break families, but to regulate transitions fairly."
+      },
+      {
+        "type": "paragraph",
+        "text": "And sometimes, fairness is the most powerful form of closure"
+      },
+      {
+        "type": "heading",
+        "text": "And remember in South Africa, the way you said “I do” determines how you say “Goodbye.”."
+      },
+      {
+        "type": "heading",
+        "text": "The Bottom Line"
+      },
+      {
+        "type": "paragraph",
+        "text": "Divorce is rarely “fun,” but it doesn’t have to be a disaster. The goal isn’t to “win” a war; it’s to transition into your new life with your finances and your sanity intact."
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether you’re looking for an amicable settlement or you need a robust team to protect your interests in a contested battle, TNR Attorneys is here to navigate the storm with you."
+      }
+    ],
+    "links": [
+      {
+        "text": "Expert Commentary & Analysis on the latest Legal Developments in South Africa",
+        "href": "https://www.tnrattorneys.co.za/category/expert-commentary-and-analysis-on-the-latest-legal-developments-in-south-africa/"
+      },
+      {
+        "text": "Wills & Estate",
+        "href": "https://www.tnrattorneys.co.za/category/wills-estate/"
+      },
+      {
+        "text": "Law",
+        "href": "https://www.tnrattorneys.co.za/tag/law/"
+      },
+      {
+        "text": "Wills & Estates",
+        "href": "https://www.tnrattorneys.co.za/tag/wills-estates/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "April 7, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/"
+      },
+      {
+        "text": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/"
+      },
+      {
+        "text": "October 17, 2025",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/"
+      }
+    ]
+  },
+  {
+    "path": "/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+    "kind": "post",
+    "source": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+    "title": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/716073e3f29f.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2026/04/TRN-Attorneys-INSIGHTS_Wills-vs.-Trusts.png"
+      },
+      {
+        "type": "heading",
+        "text": "Introduction"
+      },
+      {
+        "type": "paragraph",
+        "text": "Planning for the “after-party” of life isn’t exactly a Sunday braai conversation. It’s a bit like buying insurance, you hope you never have to use it, but you’ll be glad you have it when “life” decides to happen. In South Africa, the difference between a Will and a Trust is the difference between leaving a map for your family and leaving them a GPS with a personal chauffeur and a full tank of petrol."
+      },
+      {
+        "type": "paragraph",
+        "text": "Let’s be honest, no one wakes up excited to plan what happens after they’re gone. It ranks somewhere between going to the dentist and trying to cancel a gym membership you swore you’d use. But if you have minor children, estate planning is not optional BUT it’s essential. And this is where the classic question comes in: Should you rely on a Will, or should you consider a Trust? A Will is often the starting point. Governed by the Wills Act 7 of 1953, it is the document that gives effect to your final wishes. It allows you to decide who inherits your assets, who will administer your estate, and who will take care of your children if they are still minors. In many ways, it gives you control on paper. However, the practical reality after death is governed by process. Your estate must be administered in terms of the Administration of Estates Act 66 of 1965, and where minor children are involved, things can become a little more complicated. A minor cannot legally inherit money outright. This means that, unless you have made alternative arrangements, their inheritance is typically paid into the Guardian’s Fund, administered by the Master of the High Court. While the Fund serves an important purpose and safeguards assets, accessing those funds can be a slow and administrative process. One might say it requires patience, paperwork, and a healthy respect for follow-ups. This is where a Trust quietly enters the conversation and, quite often, becomes the better long-term solution. A Trust, regulated by the Trust Property Control Act 57 of 1988, allows you to place assets under the control of trustees, who then manage those assets for the benefit of your chosen beneficiaries. When created in a Will (commonly referred to as a testamentary trust), it becomes a powerful tool for protecting minor children. Instead of assets being paid into a government administered fund, they are managed privately by individuals you have personally selected. These trustees can use the funds to provide for the child’s education, maintenance, and general wellbeing without the delays and formalities that often accompany institutional processes. Importantly, a Trust also allows you to decide when your child should receive full control of their inheritance. And while the law considers 18 to be the age of majority, many would agree that financial maturity does not always arrive on schedule. A Trust allows you to build in a measure of protection ensuring that the inheritance supports your child’s future, rather than funding a few enthusiastic but questionable life choices. It is worth noting that a Trust does not replace a Will. The two work together. YourWill sets everything in motion, it is the document that creates the Trust, appoints trustees, and directs how your estate should be handled. The Trust, in turn, ensures that your wishes are carried out in a controlled and practical manner long after your estate has been wound up. In practical terms, the difference can be significant. Without a Trust, a minor’s inheritance is subject to external administration and access constraints. With a Trust, the same assets are actively managed, readily available for the child’s needs, and protected in accordance with your instructions. Ultimately, estate planning is not about anticipating the worst but it is about preparing responsibly. It is about ensuring that, in your absence, your children are not left navigating unnecessary administrative hurdles, and that your assets continue to serve the purpose you intended. Because while many things in life can be left for “later,” this is not one of them. In fact, in both law and life, “I’ll deal with it later” has a way of becoming someone else’s problem, usually at the worst possible time. A Will is your entry ticket to being a responsible adult, but a Trust is your VIP pass to peace of mind. If you have children, property, or a business, relying on a Will alone is like wearing a belt with no trousers, technically you’re trying, but you’re still remarkably exposed. At TNR Attorneys, we regularly assist clients in structuring Wills and Trusts that are both legally sound and practically effective. Should you wish to explore what would best suit your circumstances, our team is available to guide you through the process with clarity and care."
+      }
+    ],
+    "links": [
+      {
+        "text": "Expert Commentary & Analysis on the latest Legal Developments in South Africa",
+        "href": "https://www.tnrattorneys.co.za/category/expert-commentary-and-analysis-on-the-latest-legal-developments-in-south-africa/"
+      },
+      {
+        "text": "Wills & Estate",
+        "href": "https://www.tnrattorneys.co.za/category/wills-estate/"
+      },
+      {
+        "text": "Law",
+        "href": "https://www.tnrattorneys.co.za/tag/law/"
+      },
+      {
+        "text": "Wills & Estates",
+        "href": "https://www.tnrattorneys.co.za/tag/wills-estates/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "March 3, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/"
+      },
+      {
+        "text": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/"
+      },
+      {
+        "text": "October 17, 2025",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/"
+      }
+    ]
+  },
+  {
+    "path": "/2025/10/17/blog/",
+    "kind": "post",
+    "source": "https://www.tnrattorneys.co.za/2025/10/17/blog/",
+    "title": "Legal Insights",
+    "blocks": [
+      {
+        "type": "image",
+        "src": "/assets/original/716073e3f29f.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2026/04/TRN-Attorneys-INSIGHTS_Wills-vs.-Trusts.png"
+      },
+      {
+        "type": "heading",
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/8950f2d0366c.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2026/03/Divorce-in-South-Africa-Its-Not-War…-But-Its-Not-a-Group-Project-Either.png"
+      },
+      {
+        "type": "heading",
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/dae4bae336a7.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2025/10/Marriage.png"
+      },
+      {
+        "type": "heading",
+        "text": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa"
+      },
+      {
+        "type": "image",
+        "src": "/assets/original/be2f230c83b9.png",
+        "alt": "",
+        "source": "https://www.tnrattorneys.co.za/wp-content/uploads/2019/02/Will-Estate-Blog.png"
+      },
+      {
+        "type": "heading",
+        "text": "Lessons from Dying Intestate: Why a Valid Will Matter"
+      }
+    ],
+    "links": [
+      {
+        "text": "Expert Commentary & Analysis on the latest Legal Developments in South Africa",
+        "href": "https://www.tnrattorneys.co.za/category/expert-commentary-and-analysis-on-the-latest-legal-developments-in-south-africa/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "The Importance Of Understanding Marital Regimes Before Entering Into Marriage In South Africa",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/"
+      },
+      {
+        "text": "Lessons from Dying Intestate: Why a Valid Will Matter",
+        "href": "https://www.tnrattorneys.co.za/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+      },
+      {
+        "text": "Read More",
+        "href": "https://www.tnrattorneys.co.za/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+      },
+      {
+        "text": "Wills vs. Trusts: Who’s Really Babysitting Your Legacy",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/"
+      },
+      {
+        "text": "April 7, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/04/07/"
+      },
+      {
+        "text": "Divorce in South Africa: It’s Not War… But It’s Not a Group Project Either",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/"
+      },
+      {
+        "text": "March 3, 2026",
+        "href": "https://www.tnrattorneys.co.za/2026/03/03/"
+      }
+    ]
+  },
+  {
+    "path": "/category/wills-estate/",
+    "title": "Wills & Estate",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/category/wills-estate/",
+    "listing": "insights",
+    "paths": [
+      "/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+      "/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+      "/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/",
+      "/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+    ],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/category/expert-commentary-and-analysis-on-the-latest-legal-developments-in-south-africa/",
+    "title": "Legal Insights",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/category/expert-commentary-and-analysis-on-the-latest-legal-developments-in-south-africa/",
+    "listing": "insights",
+    "paths": [
+      "/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+      "/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+      "/2025/10/17/legalinsights/"
+    ],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/tag/law/",
+    "title": "Law",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/tag/law/",
+    "listing": "insights",
+    "paths": [
+      "/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+      "/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+      "/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/",
+      "/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+    ],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/tag/wills-estates/",
+    "title": "Wills & Estates",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/tag/wills-estates/",
+    "listing": "insights",
+    "paths": [
+      "/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+      "/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+      "/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/",
+      "/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+    ],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/author/admin/",
+    "title": "Legal Insights",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/author/admin/",
+    "listing": "insights",
+    "paths": [
+      "/2026/04/07/wills-vs-trusts-whos-really-babysitting-your-legacy/",
+      "/2026/03/03/divorce-in-south-africa-its-not-war-but-its-not-a-group-project-either/",
+      "/2025/10/17/legalinsights/",
+      "/2025/10/17/the-importance-of-understanding-marital-regimes-before-entering-into-marriage-in-south-africa/",
+      "/2025/10/16/lessons-from-dying-intestate-why-a-valid-will-matter/"
+    ],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/portfolio_category/casestudy/",
+    "title": "Case Studies",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/portfolio_category/casestudy/",
+    "listing": "cases",
+    "paths": [],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/portfolio_tag/casestudy/",
+    "title": "Case Studies",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/portfolio_tag/casestudy/",
+    "listing": "cases",
+    "paths": [],
+    "blocks": [],
+    "links": []
+  },
+  {
+    "path": "/personnel_category/tnr-attorney-team/",
+    "title": "Meet Our Team",
+    "kind": "archive",
+    "source": "https://www.tnrattorneys.co.za/personnel_category/tnr-attorney-team/",
+    "listing": "team",
+    "paths": [],
+    "blocks": [],
+    "links": []
+  }
+]

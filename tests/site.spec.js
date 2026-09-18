@@ -1,5 +1,30 @@
 import { test, expect } from '@playwright/test';
-const paths=['/','/our-areas-of-expertise/','/meettheteam/','/about-us/','/contact/','/road-accident-fund/','/medical-negligence/','/wills-and-estates/','/unlawful-arrest-and-civil-rights/','/commercial-law/','/commercial-disputes/','/contract-drafting-and-legal-review/','/labour-and-administrative-law/'];
+import originalPages from '../src/original-pages.json' with {type:'json'};
+const paths=['/',...originalPages.map(page=>page.path)];
+test('WhatsApp link stays accessible on desktop and mobile',async({page})=>{
+ for(const width of [1440,390]){
+  await page.setViewportSize({width,height:800});
+  await page.goto('http://localhost:3002/medical-negligence/');
+  const button=page.getByRole('link',{name:'Chat with TNR Attorneys on WhatsApp (opens in a new tab)',exact:true});
+  await expect(button).toBeVisible();
+  await expect(button).toHaveAttribute('href','https://wa.me/27729828445');
+  await expect(button).toHaveAttribute('target','_blank');
+  const bounds=await button.boundingBox();
+  expect(bounds.width).toBeGreaterThanOrEqual(44);
+  expect(bounds.x+bounds.width).toBeLessThanOrEqual(width);
+  expect(bounds.y+bounds.height).toBeLessThanOrEqual(800);
+ }
+});
+test('Original practice, biography, case and article text is retained',async({page})=>{
+ for(const original of originalPages.filter(item=>item.kind==='personnel'||item.kind==='portfolio'||(item.kind==='post'&&!/\/(blog|legalinsights)\/$/.test(item.path))||['/about-us/','/commercial-disputes/','/unlawful-arrest-and-civil-rights/','/medical-negligence/','/road-accident-fund/','/wills-and-estates/','/commercial-law/','/contract-drafting-and-legal-review/','/labour-and-administrative-law/'].includes(item.path))){
+  await page.goto('http://localhost:3002'+original.path);
+  const text=(await page.locator('.tnr-prose').locator('p,li,blockquote,summary,h2,h3,a').evaluateAll(elements=>elements.map(element=>{const clone=element.cloneNode(true);clone.querySelectorAll('[aria-hidden="true"]').forEach(node=>node.remove());return clone.textContent;}).join(' '))).replace(/\s+/g,' ').trim();
+  for(const block of original.blocks){
+   if(block.type==='paragraph'||block.type==='quote')expect(text,original.path).toContain(block.text);
+   if(block.type==='list')for(const item of block.items)expect(text.replace(/\s/g,''),original.path).toContain(item.replace(/\s/g,''));
+  }
+ }
+});
 for (const width of [1440,1024,768,390]) {
  test(`All pages at ${width}px`,async({page})=>{
   await page.setViewportSize({width,height:1000});
@@ -25,9 +50,9 @@ test('Navigation, mobile keyboard menu and contact routes',async({page})=>{
  await expect(page.getByRole('navigation',{name:'Main navigation'})).not.toBeVisible();
  await page.locator('footer').getByRole('link',{name:'Contact Us',exact:true}).click();
  await expect(page).toHaveURL(/contact/);
- await expect(page.getByRole('heading',{level:1})).toHaveText('Discuss your matter.');
- await expect(page.locator('main a[href="tel:+27125466948"]')).toBeVisible();
- await expect(page.locator('main a[href="mailto:info@tnrattorneys.co.za"]')).toBeVisible();
+ await expect(page.getByRole('heading',{level:1})).toHaveText('Contact Us');
+ await expect(page.locator('main a[href="tel:+27125466948"]').first()).toBeVisible();
+ await expect(page.locator('main a[href="mailto:info@tnrattorneys.co.za"]').first()).toBeVisible();
  await page.goto('http://localhost:3002/');
  for(const link of await page.locator('.lf-practice-grid a').all())expect(paths).toContain(await link.getAttribute('href'));
 });
@@ -69,7 +94,7 @@ test('Carousel starts with welcome and each slide fits on desktop and mobile',as
    expect(bounds.cta).toBeLessThan(bounds.controls);
    expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
   }
-  await expect(page.locator('.lf-hero-actions a')).toHaveAttribute('href','https://www.tnrattorneys.co.za/casestudies/');
+  await expect(page.locator('.lf-hero-actions a')).toHaveAttribute('href','/casestudies/');
  }
 });
 test('Consultation form validates and prepares an email draft without claiming submission',async({page})=>{

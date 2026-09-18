@@ -1,51 +1,53 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useLayoutEffect } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter, Link, useLocation } from 'react-router-dom';
 import './style.css';
-import { serviceDetails } from './content';
-import { people } from './team';
+import {OriginalPage,pageByPath} from './OriginalPages';
 import { LawHome, LawHeader, LawFooter } from './Lawfirma';
 import './lawfirma.css';
 import './dark.css';
+import './inner-pages.css';
 
-const practices = [
- ['road-accident-fund','RAF claims','Road Accident Fund claims','Enquiries about injuries following a road accident.'],
- ['medical-negligence','Medical negligence','Medical negligence','Concerns about medical treatment and the harm it may have caused.'],
- ['wills-and-estates','Wills and estates','Wills and estates','Planning a will and dealing with matters relating to an estate.'],
- ['unlawful-arrest-and-civil-rights','Unlawful arrest and civil rights','Unlawful arrest and civil rights','Enquiries about arrest, detention and civil rights.'],
- ['commercial-law','Commercial law','Commercial law','Legal matters affecting your business and its decisions.'],
- ['commercial-disputes','Commercial disputes','Commercial disputes','Disagreements arising from business relationships.'],
- ['contract-drafting-and-legal-review','Contracts and legal review','Contract drafting and legal review','Preparing, reviewing and understanding business agreements.'],
- ['labour-and-administrative-law','Labour and administrative law','Labour and administrative law','Employment matters and administrative decisions affecting individuals and businesses.']
-];
-const portrait = name => `/assets/${name.replaceAll(' ','-')}.png`;
-const Arrow = () => <span aria-hidden="true">↗</span>;
-function PracticeGroup({ title, items, expanded = false }) { return <section className="practice-group"><h2>{title}</h2><div>{items.map(p=><Link className="practice-row" to={`/${p[0]}/`} key={p[0]}><span>{p[1]}{expanded && <small>{p[3]}</small>}</span><Arrow/></Link>)}</div></section>; }
-function Directory({ expanded = false }) { return <div className={`directory ${expanded?'expanded':''}`}><PracticeGroup title="For you and your family" items={practices.slice(0,4)} expanded={expanded}/><PracticeGroup title="For your business" items={practices.slice(4,7)} expanded={expanded}/><div className="shared-practice"><p>For individuals and businesses</p><Link to="/labour-and-administrative-law/">Labour and administrative law <Arrow/></Link></div></div>; }
-function ContactPage(){return <section className="container page contact-page"><div className="page-heading"><h1>Discuss your matter.</h1><p>Get in touch with the firm by phone or email. If you’re not sure which practice fits, tell us a little about your situation.</p></div><div className="contact-grid"><section><h2>Speak to us</h2><a className="large-link" href="tel:+27125466948">012 546 6948 <Arrow/></a><a className="large-link email" href="mailto:info@tnrattorneys.co.za">info@tnrattorneys.co.za <Arrow/></a><div className="enquiry-note"><h3>Enquiries by email</h3><p>You can include your name, preferred reply channel and the general nature of your matter. Online submission is not yet available.</p><a className="button" href="mailto:info@tnrattorneys.co.za?subject=Enquiry%20about%20a%20legal%20matter">Open an email enquiry <Arrow/></a></div></section><section className="offices"><h2>Our offices</h2><h3>Pretoria</h3><p>225 Lange Street<br/>Nieuw Muckleneuk, Pretoria</p><h3>Sasolburg</h3><p>18 Fichard Street<br/>Sasolburg, 1947</p><p className="office-note">For the Mpumalanga office, please contact the firm to confirm the location before visiting.</p></section></div></section>}
-function PeoplePage(){return <section className="container page"><div className="page-heading"><h1>People behind<br/>the practice.</h1><p>Attorneys, consultants and support staff. Meet the people who make up TNR Attorneys.</p></div><div className="team-grid">{people.map((p,i)=><figure key={p[0]}><img src={portrait(p[0])} alt={p[0]} width="599" height="551" loading={i>2?'lazy':'eager'}/><figcaption><h2>{p[0]}</h2><p>{p[1]}</p>{i===0&&<><p className="founder-summary">Toohey Rambau leads the practice as Director & Founder. Contact the firm to discuss your matter and the appropriate member of the team to assist.</p><Link className="text-link" to="/contact/">Contact the firm <Arrow/></Link></>}</figcaption></figure>)}</div><p className="team-note">For enquiries, use the firm’s central phone number or email. The team can discuss your matter and direct your enquiry appropriately.</p></section>}
-function About(){return <section className="container page about-page"><div className="page-heading"><h1>We fight, advise,<br/>protect and empower.</h1><p>A South African legal practice serving individuals, families, businesses and community organisations.</p></div><div className="about-content"><figure><img src={portrait('Toohey Rambau')} alt="Toohey Rambau, Director and Founder" width="599" height="551"/><figcaption className="founder-caption"><strong>Toohey Rambau</strong><span>Director & Founder</span></figcaption></figure><div><h2>A practice built around people</h2><p>TNR Attorneys handles litigation and advisory work for clients across South Africa. Its matters range from serious injuries and civil rights concerns to commercial agreements, business disputes and employment issues.</p><p>The firm recognises that a legal matter has consequences beyond the documents. It may affect a family’s income, a person’s dignity, the future of a business or the interests of a community.</p><p>The published approach emphasises access to justice, precision and preparation, and explanations without unnecessary jargon. Advice starts with understanding the circumstances behind the matter.</p><p>Toohey Rambau leads the practice as Director & Founder, supported by the firm’s legal team, consultants and administrative staff.</p><Link className="text-link" to="/meettheteam/">Meet the people behind TNR <Arrow/></Link></div></div><section className="about-principles"><h2>What the firm stands for</h2><div className="approach-rows"><div><h3>Access to justice</h3><p>The firm’s stated belief is that a client’s status or background should not prevent access to justice.</p></div><div><h3>Careful preparation</h3><p>Reviewing the facts and supporting material with precision, rather than treating different matters as though they are the same.</p></div><div><h3>Clear communication</h3><p>Making the advice understandable, so clients can discuss their circumstances and the available next steps.</p></div></div></section><section className="about-principles"><h2>Personal matters.<br/>Business decisions.</h2><p>Explore the firm’s eight areas of practice to understand the types of matters it handles. If you are unsure where your enquiry belongs, contact the firm directly.</p><Link className="text-link" to="/our-areas-of-expertise/">How we help <Arrow/></Link></section></section>}
-function PracticePage({ practice:p }){const detail=serviceDetails[p[0]];return <section className="container page practice-page"><Link className="back-link" to="/our-areas-of-expertise/">← All areas of practice</Link><div className="page-heading"><h1>{p[2]}</h1><p>{detail.lead}</p></div><Link className="button" to="/contact/">Discuss your matter <Arrow/></Link><div className="practice-overview"><div><h2>Understanding your situation</h2>{detail.overview.map(text=><p key={text}>{text}</p>)}</div><aside><h2>{detail.heading}</h2><ul className="matter-list">{detail.matters.map(m=><li key={m}>{m}</li>)}</ul></aside></div><section className="practice-support"><h2>How the firm<br/>can assist</h2><div><p>{detail.support}</p><p>To make a first enquiry, share the general nature of the matter and how you would prefer to be contacted. You do not need to send identity documents, medical records or case files with your initial enquiry.</p><Link className="text-link" to="/meettheteam/">Meet the legal team <Arrow/></Link></div></section><section className="related-services"><h2>Related areas of practice</h2><div>{detail.related.map(slug=>{const other=practices.find(p=>p[0]===slug);return <Link key={slug} to={`/${slug}/`}>{other[1]} <Arrow/></Link>})}</div></section></section>}
-function App(){const {pathname}=useLocation();const p=practices.find(p=>pathname===`/${p[0]}/`||pathname===`/${p[0]}`);let content,title;if(pathname==='/'){content=<LawHome/>;title='Legal advice and representation';}else if(pathname.startsWith('/contact')){content=<ContactPage/>;title='Contact';}else if(pathname.startsWith('/meettheteam')){content=<PeoplePage/>;title='Our people';}else if(pathname.startsWith('/about-us')){content=<About/>;title='About TNR';}else if(pathname.startsWith('/our-areas-of-expertise')){content=<section className="container page"><div className="page-heading"><h1>How we help.</h1><p>Legal advice and representation for the matters that affect your life and your business.</p></div><Directory expanded/></section>;title='How we help';}else if(p){content=<PracticePage practice={p}/>;title=p[2];}else{content=<section className="container page"><h1>Page not found.</h1><Link className="button" to="/">Back to home <Arrow/></Link></section>;title='Page not found';}useEffect(()=>{document.title=`${title} | TNR Attorneys`;document.querySelector('meta[name="description"]').content=p?p[3]:`${title}. Legal advice and representation for personal matters and business decisions from TNR Attorneys.`;window.scrollTo(0,0);document.getElementById('main')?.focus({preventScroll:true});},[pathname,title]);return <><a className="skip-link" href="#main">Skip to content</a><LawHeader/><main id="main" tabIndex="-1">{content}</main><LawFooter/></>}
-function SiteMotion(){
+function App(){
  const {pathname}=useLocation();
+ const normalized=pathname.endsWith('/')?pathname:pathname+'/';
+ const original=pageByPath[normalized];
+ const home=pathname==='/';
+ const title=home?'Legal Advice and Representation':original?original.title.replace(/\s*[–—]\s*TNR Attorneys$/i,''):'Page Not Found';
  useEffect(()=>{
-  if(window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
-  const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{
-   if(entry.isIntersecting){entry.target.classList.add('tnr-revealed');observer.unobserve(entry.target);}
-  }),{threshold:.12});
-  document.querySelectorAll('.lf-introduction-card,.lf-overview article,.lf-booking,.lf-team-scroll-track figure,.lf-testimonial-card,.lf-case-card,.shared-practice,.team-grid figure,.about-content').forEach(element=>{const siblings=[...element.parentElement.children];element.style.setProperty('--reveal-delay',`${siblings.indexOf(element)%4*90}ms`);observer.observe(element);});
-  const pointerMove=event=>{
-   if(event.pointerType!=='mouse')return;
-   const card=event.target.closest('.lf-testimonial-card,.lf-case-card');
-   if(!card)return;
-   const bounds=card.getBoundingClientRect();
-   card.style.setProperty('--pointer-x',`${event.clientX-bounds.left}px`);
-   card.style.setProperty('--pointer-y',`${event.clientY-bounds.top}px`);
+  document.title=title+' | TNR Attorneys';
+  const description=original?.blocks.find(block=>block.type==='paragraph')?.text;
+  document.querySelector('meta[name="description"]').content=description?description.slice(0,160):'TNR Attorneys. Trusted legal partners for individuals, families and businesses in South Africa.';
+  window.scrollTo(0,0);
+  document.getElementById('main')?.focus({preventScroll:true});
+ },[pathname,title,original]);
+ return <><a className="skip-link" href="#main">Skip to Content</a><LawHeader/><main id="main" tabIndex="-1">{home?<LawHome/>:original?<OriginalPage page={original}/>:<section className="lf-shell tnr-page-section"><h1>Page Not Found.</h1><Link className="lf-button" to="/">Back to Home</Link></section>}</main><LawFooter/><a className="tnr-whatsapp-button" href="https://wa.me/27729828445" target="_blank" rel="noopener noreferrer" aria-label="Chat with TNR Attorneys on WhatsApp (opens in a new tab)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M20.5 11.7a8.5 8.5 0 0 1-12.6 7.5L3 20.5l1.3-4.8A8.5 8.5 0 1 1 20.5 11.7Z"/><path d="m8 7.5 1.5 2-1 1.2c.8 1.7 2.1 3 3.8 3.8l1.2-1 2 1.5c-.3 1.5-1.3 2-2.5 1.6-3.6-1.2-6.5-4.1-7.1-7.1-.2-1 .6-1.8 2.1-2Z"/></svg></a></>;
+}
+function ScrollMotion(){
+ const {pathname}=useLocation();
+ useLayoutEffect(()=>{
+  const media=window.matchMedia('(prefers-reduced-motion: reduce)');
+  if(media.matches)return;
+const nodes=[...document.querySelectorAll('.lf-introduction-card,.lf-overview article,.lf-booking,.lf-testimonial-card,.lf-case-card,.lf-team-scroll-track figure,.shared-practice,.team-grid figure,.lf-overview h2,.lf-case-studies h2,.lf-team-scroll h2,.tnr-person-card,.tnr-article-card,.tnr-contact-cards>div')];
+  const animations=new Set();
+  const reveal=(element,immediate=false)=>{
+   if(!element.classList.contains('tnr-motion-pending'))return;
+   observer.unobserve(element);
+   element.classList.remove('tnr-motion-pending');
+   if(immediate)return;
+   const siblings=[...element.parentElement.children].filter(child=>nodes.includes(child));
+   const animation=element.animate([{opacity:0,translate:'0 28px'},{opacity:1,translate:'0 0'}],{duration:700,delay:Math.max(0,siblings.indexOf(element)%4)*75,easing:'cubic-bezier(.22,1,.36,1)',fill:'backwards'});
+   animations.add(animation);
+   animation.onfinish=()=>{animations.delete(animation);animation.cancel();};
   };
-  document.addEventListener('pointermove',pointerMove,{passive:true});
-  return ()=>{observer.disconnect();document.removeEventListener('pointermove',pointerMove);};
+  const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting)reveal(entry.target);}),{threshold:0,rootMargin:'0px 0px -24px 0px'});
+  nodes.forEach(element=>{if(element.getBoundingClientRect().top>=window.innerHeight){element.classList.add('tnr-motion-pending');observer.observe(element);}});
+  const showAll=()=>{if(media.matches){nodes.forEach(element=>reveal(element,true));animations.forEach(animation=>animation.cancel());animations.clear();}};
+  const showFocused=event=>nodes.forEach(element=>{if(element.contains(event.target)){reveal(element,true);element.getAnimations().forEach(animation=>animation.finish());}});
+  media.addEventListener('change',showAll);
+  document.addEventListener('focusin',showFocused);
+  return ()=>{observer.disconnect();animations.forEach(animation=>animation.cancel());nodes.forEach(element=>element.classList.remove('tnr-motion-pending'));media.removeEventListener('change',showAll);document.removeEventListener('focusin',showFocused);};
  },[pathname]);
  return null;
 }
-createRoot(document.getElementById('root')).render(<BrowserRouter><App/><SiteMotion/></BrowserRouter>);
+createRoot(document.getElementById('root')).render(<BrowserRouter><App/><ScrollMotion/></BrowserRouter>);

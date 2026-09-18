@@ -346,7 +346,8 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline-color: va
 .lf-team-scroll-buttons button:disabled { opacity: .3; cursor: default; }
 .lf-team-scroll-buttons button span { width: 8px; height: 8px; border-top: 1.5px solid currentColor; border-right: 1.5px solid currentColor; transform: rotate(45deg); }
 .lf-team-scroll-buttons button:first-child span { transform: rotate(-135deg); }
-.lf-team-scroll-track { display: flex; gap: 24px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: #c6a66b #252525; padding-bottom: 24px; }
+.lf-team-scroll-track { display: flex; gap: 24px; overflow-x: auto; overscroll-behavior-x: contain; scroll-snap-type: x mandatory; scrollbar-width: none; padding-bottom: 4px; }
+.lf-team-scroll-track::-webkit-scrollbar { display: none; }
 .lf-team-scroll-track:focus-visible { outline: 2px solid var(--orange); outline-offset: 6px; }
 .lf-team-scroll-track figure { margin: 0; flex: 0 0 calc((100% - 72px)/3.5); min-width: 260px; scroll-snap-align: start; }
 .lf-team-scroll-portrait { position: relative; aspect-ratio: 4/5; overflow: hidden; background: #121212; }
@@ -497,8 +498,6 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline-color: va
  .lf-introduction-portrait { min-height: 0; }
  .lf-introduction-portrait img { height: auto; display: block; }
 }
-.tnr-revealed { animation: tnr-reveal .9s cubic-bezier(.16,1,.3,1) both; animation-delay: var(--reveal-delay,0ms); }
-@keyframes tnr-reveal { from { opacity: .15; translate: 0 26px; filter: blur(4px); } to { opacity: 1; translate: 0 0; filter: blur(0); } }
 
 /* Shared geometry and interaction language, kept intentionally restrained. */
 :root { --tnr-radius: 4px; --tnr-ease: cubic-bezier(.2,.7,.2,1); }
@@ -535,22 +534,19 @@ body a:focus-visible, body button:focus-visible, body input:focus-visible, body 
 .lf-select-chevron, .lf-overview-chevron { transition: transform .25s var(--tnr-ease); }
 .lf-case-card:hover .lf-case-link span { translate: 3px 0; }
 .lf-case-link span { transition: translate .25s; }
-@keyframes tnr-hero-enter { from { opacity: 0; translate: 0 14px; filter: blur(6px); } to { opacity: 1; translate: 0 0; filter: blur(0); } }
-.lf-carousel .lf-hero-eyebrow { animation: tnr-hero-enter .7s cubic-bezier(.16,1,.3,1) both; }
-.lf-carousel .lf-hero-copy h1 { animation: tnr-hero-enter 1s .08s cubic-bezier(.16,1,.3,1) both; }
-.lf-carousel .lf-hero-description { animation: tnr-hero-enter .85s .2s cubic-bezier(.16,1,.3,1) both; }
-.lf-carousel .lf-hero-photo img { transform: scale(1); transition: opacity 1.2s ease, transform 6s linear; }
-.lf-carousel .lf-hero-photo img.is-active { transform: scale(1.045); }
-body .lf-button, body .button, body .lf-booking-submit { position: relative; overflow: hidden; }
-body .lf-button::before, body .button::before, body .lf-booking-submit::before { content: ''; position: absolute; inset: -70% auto -70% -65%; width: 35%; background: linear-gradient(90deg,transparent,#ffffff40,transparent); transform: skewX(-20deg); pointer-events: none; }
-@keyframes tnr-button-sheen { to { left: 135%; } }
-@media(hover:hover) { body .lf-button:hover::before, body .button:hover::before, body .lf-booking-submit:hover::before { animation: tnr-button-sheen .7s ease-out; } }
-.lf-testimonial-card, .lf-case-card { position: relative; }
-.lf-testimonial-card::after, .lf-case-card::after { content: ''; position: absolute; inset: 0; background: radial-gradient(320px circle at var(--pointer-x,50%) var(--pointer-y,50%),#ffffff16,transparent 80%); opacity: 0; transition: opacity .5s; pointer-events: none; border-radius: inherit; }
-@media(hover:hover) { .lf-testimonial-card:hover::after, .lf-case-card:hover::after { opacity: 1; } }
-.lf-overview article>img, .lf-case-image img { transition: transform .9s cubic-bezier(.16,1,.3,1),filter .6s; }
-.lf-overview article:hover>img, .lf-case-card:hover img { transform: scale(1.065); }
+@keyframes tnr-hero-enter { from { opacity: 0; translate: 0 12px; } to { opacity: 1; translate: 0 0; } }
+.lf-carousel .lf-hero-eyebrow, .lf-carousel .lf-hero-copy h1, .lf-carousel .lf-hero-description { animation: tnr-hero-enter .65s cubic-bezier(.22,1,.36,1) backwards; }
+.lf-carousel .lf-hero-copy h1 { animation-delay: .06s; }
+.lf-carousel .lf-hero-description { animation-delay: .12s; }
+.tnr-motion-pending { opacity: 0; }
+.lf-carousel .lf-hero-photo img { transition: opacity .7s ease; }
+.lf-overview article>img, .lf-case-image img { transition: transform .45s ease-out; }
+@media(hover:hover) { .lf-overview article:hover>img, .lf-case-card:hover img { transform: scale(1.025); } }
+/* Keep the hit areas stationary while their contents respond to interaction. */
+body .lf-button:hover, body .button:hover, body .lf-booking-submit:hover, body .lf-header nav>.lf-button:hover, body .lf-hero-actions .lf-button:hover,
+body .lf-team-scroll-buttons button:hover:not(:disabled), .lf-case-card:hover, .lf-overview article:hover, .shared-practice:hover { transform: none; box-shadow: none; }
+@media(hover:none) { .lf-overview article:hover>img, .lf-case-card:hover img { transform: none; } }
 .lf-header nav>a:not(.lf-button), .lf-footer-links a { position: relative; }
 .lf-header nav>a:not(.lf-button)::after, .lf-footer-links a::after { content: ''; position: absolute; height: 1px; background: #c6a66b; left: 0; right: 0; bottom: -4px; transform: scaleX(0); transform-origin: left; transition: transform .35s cubic-bezier(.16,1,.3,1); }
 .lf-header nav>a:not(.lf-button):hover::after, .lf-footer-links a:hover::after { transform: scaleX(1); }
-@media(prefers-reduced-motion:reduce) { body *, body *::before, body *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } .tnr-revealed { opacity: 1; translate: none; filter: none; } .lf-carousel .lf-hero-photo img.is-active { transform: none; } }
+@media(prefers-reduced-motion:reduce) { body *, body *::before, body *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
